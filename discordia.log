@@ -1,0 +1,2900 @@
+2021-01-02 05:07:04 | [INFO]    | Discordia 2.8.4
+2021-01-02 05:07:04 | [INFO]    | Connecting to Discord...
+2021-01-02 05:07:04 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2021-01-02 05:07:04 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2021-01-02 05:07:59 | [INFO]    | Discordia 2.8.4
+2021-01-02 05:07:59 | [INFO]    | Connecting to Discord...
+2021-01-02 05:07:59 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2021-01-02 05:07:59 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2021-01-02 05:08:06 | [INFO]    | Discordia 2.8.4
+2021-01-02 05:08:06 | [INFO]    | Connecting to Discord...
+2021-01-02 05:08:06 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2021-01-02 05:08:06 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2021-01-02 05:09:03 | [INFO]    | Discordia 2.8.4
+2021-01-02 05:09:03 | [INFO]    | Connecting to Discord...
+2021-01-02 05:09:03 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2021-01-02 05:09:03 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2021-01-02 05:12:03 | [INFO]    | Discordia 2.8.4
+2021-01-02 05:12:03 | [INFO]    | Connecting to Discord...
+2021-01-02 05:12:04 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2021-01-02 05:12:04 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2021-01-02 05:15:34 | [INFO]    | Discordia 2.8.4
+2021-01-02 05:15:34 | [INFO]    | Connecting to Discord...
+2021-01-02 05:15:34 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2021-01-02 05:15:34 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2021-01-02 05:17:09 | [INFO]    | Discordia 2.8.4
+2021-01-02 05:17:09 | [INFO]    | Connecting to Discord...
+2021-01-02 05:17:09 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2021-01-02 05:17:09 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2021-01-02 05:17:38 | [INFO]    | Discordia 2.8.4
+2021-01-02 05:17:38 | [INFO]    | Connecting to Discord...
+2021-01-02 05:17:38 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2021-01-02 05:17:38 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2021-01-02 05:18:04 | [INFO]    | Discordia 2.8.4
+2021-01-02 05:18:04 | [INFO]    | Connecting to Discord...
+2021-01-02 05:18:04 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2021-01-02 05:18:04 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2021-01-02 05:20:07 | [INFO]    | Discordia 2.8.4
+2021-01-02 05:20:07 | [INFO]    | Connecting to Discord...
+2021-01-02 05:20:07 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2021-01-02 05:20:07 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2021-01-02 05:21:35 | [INFO]    | Discordia 2.8.4
+2021-01-02 05:21:35 | [INFO]    | Connecting to Discord...
+2021-01-02 05:21:36 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 05:21:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 05:21:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 05:21:36 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 05:21:36 | [INFO]    | Shard 0 : Received READY
+2021-01-02 05:30:19 | [INFO]    | Discordia 2.8.4
+2021-01-02 05:30:19 | [INFO]    | Connecting to Discord...
+2021-01-02 05:30:20 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 05:30:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 05:30:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 05:30:20 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 05:30:20 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:23:23 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:23:23 | [INFO]    | Connecting to Discord...
+2021-01-02 06:23:23 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:23:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:23:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:23:25 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:23:25 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:24:11 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:24:11 | [INFO]    | Connecting to Discord...
+2021-01-02 06:24:11 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:24:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:24:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:24:11 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:24:11 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:24:20 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:24:20 | [INFO]    | Connecting to Discord...
+2021-01-02 06:24:20 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:24:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:24:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:24:20 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:24:20 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:27:22 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:27:22 | [INFO]    | Connecting to Discord...
+2021-01-02 06:27:22 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:27:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:27:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:27:22 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:27:22 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:27:47 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:27:47 | [INFO]    | Connecting to Discord...
+2021-01-02 06:27:47 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:27:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:27:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:27:47 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:27:47 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:30:01 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:30:01 | [INFO]    | Connecting to Discord...
+2021-01-02 06:30:01 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:30:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:30:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:30:01 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:30:01 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:36:02 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:36:02 | [INFO]    | Connecting to Discord...
+2021-01-02 06:36:02 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:36:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:36:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:36:02 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:36:02 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:41:05 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:41:05 | [INFO]    | Connecting to Discord...
+2021-01-02 06:41:05 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:41:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:41:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:41:05 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:41:05 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:41:26 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:41:26 | [INFO]    | Connecting to Discord...
+2021-01-02 06:41:26 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:41:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:41:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:41:26 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:41:26 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:45:52 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:45:52 | [INFO]    | Connecting to Discord...
+2021-01-02 06:45:52 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:45:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:45:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:45:54 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:45:54 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:47:02 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:47:02 | [INFO]    | Connecting to Discord...
+2021-01-02 06:47:03 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:47:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:47:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:47:03 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:47:03 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:47:30 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:47:30 | [INFO]    | Connecting to Discord...
+2021-01-02 06:47:30 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:47:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:47:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:47:30 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:47:30 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:47:42 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:47:42 | [INFO]    | Connecting to Discord...
+2021-01-02 06:47:42 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:47:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:47:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:47:42 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:47:42 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:47:51 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:47:51 | [INFO]    | Connecting to Discord...
+2021-01-02 06:47:51 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:47:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:47:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:47:51 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:47:51 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:48:03 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:48:03 | [INFO]    | Connecting to Discord...
+2021-01-02 06:48:03 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:48:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:48:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:48:03 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:48:03 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:49:09 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:49:09 | [INFO]    | Connecting to Discord...
+2021-01-02 06:49:09 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:49:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:49:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:49:09 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:49:09 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:51:16 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:51:16 | [INFO]    | Connecting to Discord...
+2021-01-02 06:51:16 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:51:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:51:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:51:16 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:51:16 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:53:45 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:53:45 | [INFO]    | Connecting to Discord...
+2021-01-02 06:53:45 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:53:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:53:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:53:45 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:53:45 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:53:45 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/users/@me/channels
+2021-01-02 06:53:58 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:53:58 | [INFO]    | Connecting to Discord...
+2021-01-02 06:53:58 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:53:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:53:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:53:58 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:53:58 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:54:03 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:54:03 | [INFO]    | Connecting to Discord...
+2021-01-02 06:54:03 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:54:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:54:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:54:03 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:54:04 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:56:16 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:56:16 | [INFO]    | Connecting to Discord...
+2021-01-02 06:56:16 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:56:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:56:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:56:16 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:56:16 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:56:35 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:56:35 | [INFO]    | Connecting to Discord...
+2021-01-02 06:56:35 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:56:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:56:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:56:35 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:56:36 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:56:55 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:56:55 | [INFO]    | Connecting to Discord...
+2021-01-02 06:56:55 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:56:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:56:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:56:55 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:56:55 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:57:04 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:57:04 | [INFO]    | Connecting to Discord...
+2021-01-02 06:57:04 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:57:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:57:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:57:04 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:57:05 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:57:46 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:57:46 | [INFO]    | Connecting to Discord...
+2021-01-02 06:57:46 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:57:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:57:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:57:46 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:57:46 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:58:01 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:58:01 | [INFO]    | Connecting to Discord...
+2021-01-02 06:58:01 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:58:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:58:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:58:01 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:58:02 | [INFO]    | Shard 0 : Received READY
+2021-01-02 06:58:25 | [INFO]    | Discordia 2.8.4
+2021-01-02 06:58:25 | [INFO]    | Connecting to Discord...
+2021-01-02 06:58:25 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 06:58:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 06:58:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 06:58:25 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 06:58:25 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:00:13 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:00:13 | [INFO]    | Connecting to Discord...
+2021-01-02 07:00:13 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:00:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:00:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:00:14 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:00:14 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:06:18 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:06:18 | [INFO]    | Connecting to Discord...
+2021-01-02 07:06:18 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:06:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:06:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:06:18 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:06:19 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:08:46 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:08:46 | [INFO]    | Connecting to Discord...
+2021-01-02 07:08:46 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:08:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:08:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:08:47 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:08:48 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:09:44 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:09:44 | [INFO]    | Connecting to Discord...
+2021-01-02 07:09:44 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:09:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:09:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:09:44 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:09:44 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:10:18 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:10:18 | [INFO]    | Connecting to Discord...
+2021-01-02 07:10:19 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:10:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:10:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:10:19 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:10:19 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:26:31 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:26:31 | [INFO]    | Connecting to Discord...
+2021-01-02 07:26:31 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:26:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:26:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:26:31 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:26:31 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:26:48 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:26:48 | [INFO]    | Connecting to Discord...
+2021-01-02 07:26:48 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:26:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:26:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:26:48 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:26:48 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:28:22 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:28:22 | [INFO]    | Connecting to Discord...
+2021-01-02 07:28:22 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:28:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:28:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:28:22 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:28:22 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:28:41 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:28:41 | [INFO]    | Connecting to Discord...
+2021-01-02 07:28:42 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:28:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:28:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:28:42 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:28:42 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:29:17 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:29:17 | [INFO]    | Connecting to Discord...
+2021-01-02 07:29:17 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:29:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:29:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:29:17 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:29:17 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:36:04 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:36:04 | [INFO]    | Connecting to Discord...
+2021-01-02 07:36:04 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:36:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:36:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:36:04 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:36:04 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:38:31 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:38:31 | [INFO]    | Connecting to Discord...
+2021-01-02 07:38:31 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:38:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:38:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:38:31 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:38:31 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:39:01 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:39:01 | [INFO]    | Connecting to Discord...
+2021-01-02 07:39:01 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:39:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:39:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:39:01 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:39:01 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:39:17 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:39:17 | [INFO]    | Connecting to Discord...
+2021-01-02 07:39:18 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:39:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:39:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:39:18 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:39:18 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:41:32 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:41:32 | [INFO]    | Connecting to Discord...
+2021-01-02 07:41:32 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:41:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:41:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:41:32 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:41:33 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:42:14 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:42:14 | [INFO]    | Connecting to Discord...
+2021-01-02 07:42:14 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:42:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:42:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:42:14 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:42:14 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:42:47 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:42:47 | [INFO]    | Connecting to Discord...
+2021-01-02 07:42:47 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:42:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:42:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:42:47 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:42:48 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:43:17 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:43:17 | [INFO]    | Connecting to Discord...
+2021-01-02 07:43:17 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:43:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:43:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:43:17 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:43:17 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:45:11 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:45:11 | [INFO]    | Connecting to Discord...
+2021-01-02 07:45:11 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:45:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:45:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:45:12 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:45:12 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:54:05 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:54:05 | [INFO]    | Connecting to Discord...
+2021-01-02 07:54:06 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:54:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:54:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:54:07 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:54:07 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:55:10 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:55:10 | [INFO]    | Connecting to Discord...
+2021-01-02 07:55:10 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:55:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:55:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:55:10 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:55:10 | [INFO]    | Shard 0 : Received READY
+2021-01-02 07:56:04 | [INFO]    | Discordia 2.8.4
+2021-01-02 07:56:04 | [INFO]    | Connecting to Discord...
+2021-01-02 07:56:04 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 07:56:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 07:56:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 07:56:04 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 07:56:04 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:00:13 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:00:13 | [INFO]    | Connecting to Discord...
+2021-01-02 08:00:13 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:00:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:00:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:00:13 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:00:13 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:00:57 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:00:57 | [INFO]    | Connecting to Discord...
+2021-01-02 08:00:57 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:00:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:00:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:00:57 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:00:57 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:01:08 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:01:08 | [INFO]    | Connecting to Discord...
+2021-01-02 08:01:08 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:01:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:01:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:01:08 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:01:08 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:01:39 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:01:39 | [INFO]    | Connecting to Discord...
+2021-01-02 08:01:40 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:01:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:01:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:01:40 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:01:40 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:01:53 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:01:53 | [INFO]    | Connecting to Discord...
+2021-01-02 08:01:53 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:01:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:01:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:01:53 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:01:53 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:02:26 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:02:26 | [INFO]    | Connecting to Discord...
+2021-01-02 08:02:27 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:02:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:02:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:02:27 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:02:27 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:04:30 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:04:30 | [INFO]    | Connecting to Discord...
+2021-01-02 08:04:30 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:04:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:04:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:04:30 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:04:30 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:04:48 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:04:48 | [INFO]    | Connecting to Discord...
+2021-01-02 08:04:48 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:04:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:04:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:04:48 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:04:48 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:05:14 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:05:14 | [INFO]    | Connecting to Discord...
+2021-01-02 08:05:14 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:05:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:05:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:05:14 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:05:14 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:05:56 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:05:56 | [INFO]    | Connecting to Discord...
+2021-01-02 08:05:56 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:05:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:05:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:05:56 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:05:56 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:06:59 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:06:59 | [INFO]    | Connecting to Discord...
+2021-01-02 08:07:00 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:07:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:07:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:07:00 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:07:00 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:08:46 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:08:46 | [INFO]    | Connecting to Discord...
+2021-01-02 08:08:46 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:08:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:08:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:08:46 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:08:46 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:11:12 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:11:12 | [INFO]    | Connecting to Discord...
+2021-01-02 08:11:12 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:11:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:11:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:11:12 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:11:12 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:12:51 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:12:51 | [INFO]    | Connecting to Discord...
+2021-01-02 08:12:51 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:12:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:12:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:12:51 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:12:52 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:13:47 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:13:47 | [INFO]    | Connecting to Discord...
+2021-01-02 08:13:48 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:13:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:13:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:13:48 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:13:48 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:15:03 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:15:03 | [INFO]    | Connecting to Discord...
+2021-01-02 08:15:03 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:15:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:15:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:15:03 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:15:03 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:15:21 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:15:21 | [INFO]    | Connecting to Discord...
+2021-01-02 08:15:21 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:15:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:15:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:15:21 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:15:22 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:15:57 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:15:57 | [INFO]    | Connecting to Discord...
+2021-01-02 08:15:58 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:15:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:15:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:15:58 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:15:58 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:16:13 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:16:13 | [INFO]    | Connecting to Discord...
+2021-01-02 08:16:13 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:16:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:16:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:16:13 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:16:14 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:17:13 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:17:13 | [INFO]    | Connecting to Discord...
+2021-01-02 08:17:13 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:17:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:17:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:17:13 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:17:13 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:17:27 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:17:27 | [INFO]    | Connecting to Discord...
+2021-01-02 08:17:27 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:17:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:17:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:17:27 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:17:27 | [INFO]    | Shard 0 : Received READY
+2021-01-02 08:18:05 | [INFO]    | Discordia 2.8.4
+2021-01-02 08:18:05 | [INFO]    | Connecting to Discord...
+2021-01-02 08:18:05 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-02 08:18:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-02 08:18:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 08:18:05 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 08:18:06 | [INFO]    | Shard 0 : Received READY
+2021-01-02 10:29:16 | [INFO]    | Shard 0 : Disconnected
+2021-01-02 10:29:16 | [INFO]    | Shard 0 : Reconnecting after 971 ms...
+2021-01-02 10:29:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 10:29:21 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 10:29:21 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2021-01-02 10:29:22 | [INFO]    | Shard 0 : Received READY
+2021-01-02 12:30:09 | [INFO]    | Shard 0 : Disconnected
+2021-01-02 12:30:09 | [INFO]    | Shard 0 : Reconnecting after 1058 ms...
+2021-01-02 12:30:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 12:30:10 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 12:30:10 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2021-01-02 12:30:12 | [INFO]    | Shard 0 : Received READY
+2021-01-02 16:30:53 | [INFO]    | Shard 0 : Disconnected
+2021-01-02 16:30:53 | [INFO]    | Shard 0 : Reconnecting after 1061 ms...
+2021-01-02 16:30:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 16:30:58 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 16:30:58 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2021-01-02 16:31:01 | [INFO]    | Shard 0 : Received READY
+2021-01-02 18:49:39 | [INFO]    | Shard 0 : Disconnected
+2021-01-02 18:49:39 | [INFO]    | Shard 0 : Reconnecting after 976 ms...
+2021-01-02 18:49:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 18:49:40 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 18:49:40 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2021-01-02 18:49:42 | [INFO]    | Shard 0 : Received READY
+2021-01-02 19:01:00 | [INFO]    | Shard 0 : Disconnected
+2021-01-02 19:01:00 | [INFO]    | Shard 0 : Reconnecting after 906 ms...
+2021-01-02 19:01:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-02 19:01:01 | [INFO]    | Shard 0 : Received HELLO
+2021-01-02 19:01:01 | [INFO]    | Shard 0 : Received RESUMED
+2021-01-03 05:32:10 | [INFO]    | Discordia 2.8.4
+2021-01-03 05:32:10 | [INFO]    | Connecting to Discord...
+2021-01-03 05:32:10 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 05:32:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 05:32:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 05:32:10 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 05:32:10 | [INFO]    | Shard 0 : Received READY
+2021-01-03 06:05:40 | [INFO]    | Discordia 2.8.4
+2021-01-03 06:05:40 | [INFO]    | Connecting to Discord...
+2021-01-03 06:05:40 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 06:05:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 06:05:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 06:05:41 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 06:05:41 | [INFO]    | Shard 0 : Received READY
+2021-01-03 06:06:13 | [INFO]    | Discordia 2.8.4
+2021-01-03 06:06:13 | [INFO]    | Connecting to Discord...
+2021-01-03 06:06:13 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 06:06:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 06:06:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 06:06:14 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 06:06:14 | [INFO]    | Shard 0 : Received READY
+2021-01-03 06:06:46 | [INFO]    | Discordia 2.8.4
+2021-01-03 06:06:46 | [INFO]    | Connecting to Discord...
+2021-01-03 06:06:46 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 06:06:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 06:06:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 06:06:46 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 06:06:47 | [INFO]    | Shard 0 : Received READY
+2021-01-03 06:12:32 | [INFO]    | Discordia 2.8.4
+2021-01-03 06:12:32 | [INFO]    | Connecting to Discord...
+2021-01-03 06:12:32 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 06:12:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 06:12:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 06:12:32 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 06:12:32 | [INFO]    | Shard 0 : Received READY
+2021-01-03 06:29:47 | [INFO]    | Discordia 2.8.4
+2021-01-03 06:29:47 | [INFO]    | Connecting to Discord...
+2021-01-03 06:29:47 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 06:29:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 06:29:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 06:29:47 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 06:29:47 | [INFO]    | Shard 0 : Received READY
+2021-01-03 06:30:04 | [INFO]    | Discordia 2.8.4
+2021-01-03 06:30:04 | [INFO]    | Connecting to Discord...
+2021-01-03 06:30:05 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 06:30:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 06:30:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 06:30:05 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 06:30:05 | [INFO]    | Shard 0 : Received READY
+2021-01-03 06:30:19 | [INFO]    | Discordia 2.8.4
+2021-01-03 06:30:19 | [INFO]    | Connecting to Discord...
+2021-01-03 06:30:19 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 06:30:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 06:30:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 06:30:19 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 06:30:19 | [INFO]    | Shard 0 : Received READY
+2021-01-03 06:30:42 | [INFO]    | Discordia 2.8.4
+2021-01-03 06:30:42 | [INFO]    | Connecting to Discord...
+2021-01-03 06:30:42 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 06:30:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 06:30:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 06:30:42 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 06:30:42 | [INFO]    | Shard 0 : Received READY
+2021-01-03 06:32:26 | [INFO]    | Discordia 2.8.4
+2021-01-03 06:32:26 | [INFO]    | Connecting to Discord...
+2021-01-03 06:32:26 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 06:32:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 06:32:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 06:32:26 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 06:32:26 | [INFO]    | Shard 0 : Received READY
+2021-01-03 06:32:59 | [INFO]    | Discordia 2.8.4
+2021-01-03 06:32:59 | [INFO]    | Connecting to Discord...
+2021-01-03 06:32:59 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 06:32:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 06:32:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 06:32:59 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 06:32:59 | [INFO]    | Shard 0 : Received READY
+2021-01-03 06:33:09 | [INFO]    | Discordia 2.8.4
+2021-01-03 06:33:09 | [INFO]    | Connecting to Discord...
+2021-01-03 06:33:09 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 06:33:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 06:33:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 06:33:09 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 06:33:09 | [INFO]    | Shard 0 : Received READY
+2021-01-03 06:36:19 | [INFO]    | Discordia 2.8.4
+2021-01-03 06:36:19 | [INFO]    | Connecting to Discord...
+2021-01-03 06:36:19 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 06:36:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 06:36:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 06:36:19 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 06:36:19 | [INFO]    | Shard 0 : Received READY
+2021-01-03 06:36:52 | [INFO]    | Discordia 2.8.4
+2021-01-03 06:36:52 | [INFO]    | Connecting to Discord...
+2021-01-03 06:36:52 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 06:36:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 06:36:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 06:36:52 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 06:36:52 | [INFO]    | Shard 0 : Received READY
+2021-01-03 06:41:31 | [INFO]    | Discordia 2.8.4
+2021-01-03 06:41:31 | [INFO]    | Connecting to Discord...
+2021-01-03 06:41:31 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 06:41:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 06:41:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 06:41:31 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 06:41:31 | [INFO]    | Shard 0 : Received READY
+2021-01-03 06:50:38 | [INFO]    | Discordia 2.8.4
+2021-01-03 06:50:38 | [INFO]    | Connecting to Discord...
+2021-01-03 06:50:38 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 06:50:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 06:50:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 06:50:38 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 06:50:38 | [INFO]    | Shard 0 : Received READY
+2021-01-03 06:50:49 | [INFO]    | Discordia 2.8.4
+2021-01-03 06:50:49 | [INFO]    | Connecting to Discord...
+2021-01-03 06:50:49 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 06:50:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 06:50:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 06:50:49 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 06:50:49 | [INFO]    | Shard 0 : Received READY
+2021-01-03 06:51:15 | [INFO]    | Discordia 2.8.4
+2021-01-03 06:51:15 | [INFO]    | Connecting to Discord...
+2021-01-03 06:51:15 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 06:51:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 06:51:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 06:51:15 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 06:51:15 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:10:17 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:10:17 | [INFO]    | Connecting to Discord...
+2021-01-03 07:10:17 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:10:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:10:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:10:17 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:10:17 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:10:20 | [WARNING] | 429 - Too Many Requests : retrying after 3218 ms : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/795258020984127488
+2021-01-03 07:10:25 | [WARNING] | 429 - Too Many Requests : retrying after 3234 ms : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/795258044979085323
+2021-01-03 07:10:41 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:10:41 | [INFO]    | Connecting to Discord...
+2021-01-03 07:10:41 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:10:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:10:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:10:41 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:10:41 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:11:16 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/794875833897582592/messages
+2021-01-03 07:11:54 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:11:54 | [INFO]    | Connecting to Discord...
+2021-01-03 07:11:55 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:11:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:11:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:11:55 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:11:55 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:12:30 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/794875833897582592/messages
+2021-01-03 07:13:41 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:13:41 | [INFO]    | Connecting to Discord...
+2021-01-03 07:13:42 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:13:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:13:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:13:42 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:13:42 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:14:35 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:14:35 | [INFO]    | Connecting to Discord...
+2021-01-03 07:14:35 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:14:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:14:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:14:35 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:14:35 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:14:38 | [WARNING] | 429 - Too Many Requests : retrying after 3253 ms : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/795258520349179915
+2021-01-03 07:14:57 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:14:57 | [INFO]    | Connecting to Discord...
+2021-01-03 07:14:57 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:14:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:14:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:14:57 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:14:57 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:15:01 | [WARNING] | 429 - Too Many Requests : retrying after 1938 ms : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/795258540452216864
+2021-01-03 07:15:36 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:15:36 | [INFO]    | Connecting to Discord...
+2021-01-03 07:15:36 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:15:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:15:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:15:36 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:15:36 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:16:54 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:16:54 | [INFO]    | Connecting to Discord...
+2021-01-03 07:16:54 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:16:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:16:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:16:54 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:16:54 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:17:22 | [WARNING] | 429 - Too Many Requests : retrying after 227 ms : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/795258624074448896
+2021-01-03 07:18:35 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:18:35 | [INFO]    | Connecting to Discord...
+2021-01-03 07:18:35 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:18:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:18:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:18:35 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:18:35 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:18:41 | [WARNING] | 429 - Too Many Requests : retrying after 581 ms : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/795258735580020749
+2021-01-03 07:19:59 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:19:59 | [INFO]    | Connecting to Discord...
+2021-01-03 07:19:59 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:19:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:19:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:19:59 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:19:59 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:22:14 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:22:14 | [INFO]    | Connecting to Discord...
+2021-01-03 07:22:14 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:22:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:22:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:22:14 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:22:15 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:25:18 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:25:18 | [INFO]    | Connecting to Discord...
+2021-01-03 07:25:18 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:25:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:25:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:25:18 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:25:18 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:25:51 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/794875833897582592/messages
+2021-01-03 07:34:26 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:34:26 | [INFO]    | Connecting to Discord...
+2021-01-03 07:34:27 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:34:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:34:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:34:27 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:34:27 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:34:42 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:34:42 | [INFO]    | Connecting to Discord...
+2021-01-03 07:34:42 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:34:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:34:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:34:42 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:34:42 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:35:08 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:35:08 | [INFO]    | Connecting to Discord...
+2021-01-03 07:35:08 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:35:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:35:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:35:08 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:35:08 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:35:10 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/794875833897582592/messages
+2021-01-03 07:35:27 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:35:27 | [INFO]    | Connecting to Discord...
+2021-01-03 07:35:27 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:35:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:35:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:35:27 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:35:27 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:35:28 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/794875833897582592/messages
+2021-01-03 07:36:27 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:36:27 | [INFO]    | Connecting to Discord...
+2021-01-03 07:36:28 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:36:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:36:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:36:28 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:36:28 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:36:29 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/794875833897582592/messages/bulk-delete
+2021-01-03 07:36:29 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/794875833897582592/messages
+2021-01-03 07:36:54 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:36:54 | [INFO]    | Connecting to Discord...
+2021-01-03 07:36:54 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:36:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:36:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:36:55 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:36:55 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:36:55 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/794875833897582592/messages
+2021-01-03 07:37:24 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:37:24 | [INFO]    | Connecting to Discord...
+2021-01-03 07:37:24 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:37:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:37:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:37:24 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:37:25 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:38:45 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:38:45 | [INFO]    | Connecting to Discord...
+2021-01-03 07:38:45 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:38:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:38:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:38:45 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:38:45 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:42:46 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:42:46 | [INFO]    | Connecting to Discord...
+2021-01-03 07:42:46 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:42:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:42:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:42:47 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:42:47 | [INFO]    | Shard 0 : Received READY
+2021-01-03 07:43:40 | [INFO]    | Discordia 2.8.4
+2021-01-03 07:43:40 | [INFO]    | Connecting to Discord...
+2021-01-03 07:43:40 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 07:43:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 07:43:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 07:43:40 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 07:43:40 | [INFO]    | Shard 0 : Received READY
+2021-01-03 09:47:47 | [INFO]    | Shard 0 : Disconnected
+2021-01-03 09:47:47 | [INFO]    | Shard 0 : Reconnecting after 943 ms...
+2021-01-03 10:47:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 10:47:45 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 10:47:45 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2021-01-03 10:47:49 | [INFO]    | Shard 0 : Received READY
+2021-01-03 14:48:17 | [INFO]    | Shard 0 : Disconnected
+2021-01-03 14:48:17 | [INFO]    | Shard 0 : Reconnecting after 904 ms...
+2021-01-03 14:48:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 14:48:18 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 14:48:18 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2021-01-03 14:48:20 | [INFO]    | Shard 0 : Received READY
+2021-01-03 17:24:47 | [INFO]    | Shard 0 : Disconnected
+2021-01-03 17:24:47 | [INFO]    | Shard 0 : Reconnecting after 902 ms...
+2021-01-03 17:24:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 17:24:48 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 17:24:48 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2021-01-03 17:24:52 | [INFO]    | Shard 0 : Received READY
+2021-01-03 18:09:04 | [INFO]    | Shard 0 : Disconnected
+2021-01-03 18:09:05 | [INFO]    | Shard 0 : Reconnecting after 1099 ms...
+2021-01-03 18:09:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 18:09:06 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 18:09:06 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2021-01-03 18:09:10 | [INFO]    | Shard 0 : Received READY
+2021-01-03 18:43:16 | [INFO]    | Shard 0 : Disconnected
+2021-01-03 18:43:16 | [INFO]    | Shard 0 : Reconnecting after 1058 ms...
+2021-01-03 19:37:39 | [INFO]    | Discordia 2.8.4
+2021-01-03 19:37:39 | [INFO]    | Connecting to Discord...
+2021-01-03 19:37:39 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 19:37:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 19:37:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 19:37:39 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 19:37:39 | [INFO]    | Shard 0 : Received READY
+2021-01-03 19:38:26 | [INFO]    | Discordia 2.8.4
+2021-01-03 19:38:26 | [INFO]    | Connecting to Discord...
+2021-01-03 19:38:26 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 19:38:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 19:38:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 19:38:26 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 19:38:26 | [INFO]    | Shard 0 : Received READY
+2021-01-03 19:40:07 | [INFO]    | Discordia 2.8.4
+2021-01-03 19:40:07 | [INFO]    | Connecting to Discord...
+2021-01-03 19:40:07 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 19:40:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 19:40:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 19:40:07 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 19:40:07 | [INFO]    | Shard 0 : Received READY
+2021-01-03 19:40:27 | [INFO]    | Discordia 2.8.4
+2021-01-03 19:40:27 | [INFO]    | Connecting to Discord...
+2021-01-03 19:40:27 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-03 19:40:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-03 19:40:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-03 19:40:28 | [INFO]    | Shard 0 : Received HELLO
+2021-01-03 19:40:28 | [INFO]    | Shard 0 : Received READY
+2021-01-05 21:30:24 | [INFO]    | Discordia 2.8.4
+2021-01-05 21:30:24 | [INFO]    | Connecting to Discord...
+2021-01-05 21:30:25 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-05 21:30:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-05 21:30:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-05 21:30:28 | [INFO]    | Shard 0 : Received HELLO
+2021-01-05 21:30:28 | [INFO]    | Shard 0 : Received READY
+2021-01-06 21:44:44 | [INFO]    | Discordia 2.8.4
+2021-01-06 21:44:44 | [INFO]    | Connecting to Discord...
+2021-01-06 21:44:44 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 21:44:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 21:44:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 21:44:44 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 21:44:44 | [INFO]    | Shard 0 : Received READY
+2021-01-06 21:45:07 | [INFO]    | Discordia 2.8.4
+2021-01-06 21:45:07 | [INFO]    | Connecting to Discord...
+2021-01-06 21:45:07 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 21:45:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 21:45:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 21:45:07 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 21:45:07 | [INFO]    | Shard 0 : Received READY
+2021-01-06 21:45:08 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/794875833897582592/messages
+2021-01-06 21:45:19 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/794875833897582592/messages/bulk-delete
+2021-01-06 21:46:48 | [INFO]    | Discordia 2.8.4
+2021-01-06 21:46:48 | [INFO]    | Connecting to Discord...
+2021-01-06 21:46:48 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 21:46:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 21:46:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 21:46:48 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 21:46:49 | [INFO]    | Shard 0 : Received READY
+2021-01-06 21:48:53 | [INFO]    | Discordia 2.8.4
+2021-01-06 21:48:53 | [INFO]    | Connecting to Discord...
+2021-01-06 21:48:53 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 21:48:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 21:48:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 21:48:53 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 21:48:53 | [INFO]    | Shard 0 : Received READY
+2021-01-06 21:49:19 | [INFO]    | Discordia 2.8.4
+2021-01-06 21:49:19 | [INFO]    | Connecting to Discord...
+2021-01-06 21:49:19 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 21:49:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 21:49:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 21:49:19 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 21:49:19 | [INFO]    | Shard 0 : Received READY
+2021-01-06 21:50:01 | [INFO]    | Discordia 2.8.4
+2021-01-06 21:50:01 | [INFO]    | Connecting to Discord...
+2021-01-06 21:50:01 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 21:50:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 21:50:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 21:50:02 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 21:50:02 | [INFO]    | Shard 0 : Received READY
+2021-01-06 21:50:18 | [INFO]    | Discordia 2.8.4
+2021-01-06 21:50:18 | [INFO]    | Connecting to Discord...
+2021-01-06 21:50:18 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 21:50:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 21:50:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 21:50:20 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 21:50:20 | [INFO]    | Shard 0 : Received READY
+2021-01-06 21:50:32 | [INFO]    | Discordia 2.8.4
+2021-01-06 21:50:32 | [INFO]    | Connecting to Discord...
+2021-01-06 21:50:33 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 21:50:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 21:50:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 21:50:33 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 21:50:33 | [INFO]    | Shard 0 : Received READY
+2021-01-06 21:50:53 | [INFO]    | Discordia 2.8.4
+2021-01-06 21:50:53 | [INFO]    | Connecting to Discord...
+2021-01-06 21:50:53 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 21:50:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 21:50:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 21:50:53 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 21:50:54 | [INFO]    | Shard 0 : Received READY
+2021-01-06 21:52:47 | [INFO]    | Discordia 2.8.4
+2021-01-06 21:52:47 | [INFO]    | Connecting to Discord...
+2021-01-06 21:52:47 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 21:52:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 21:52:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 21:52:48 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 21:52:48 | [INFO]    | Shard 0 : Received READY
+2021-01-06 21:56:25 | [INFO]    | Discordia 2.8.4
+2021-01-06 21:56:25 | [INFO]    | Connecting to Discord...
+2021-01-06 21:56:25 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 21:56:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 21:56:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 21:56:25 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 21:56:25 | [INFO]    | Shard 0 : Received READY
+2021-01-06 22:00:12 | [INFO]    | Discordia 2.8.4
+2021-01-06 22:00:12 | [INFO]    | Connecting to Discord...
+2021-01-06 22:00:12 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 22:00:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 22:00:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 22:00:12 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 22:00:12 | [INFO]    | Shard 0 : Received READY
+2021-01-06 22:00:31 | [INFO]    | Discordia 2.8.4
+2021-01-06 22:00:31 | [INFO]    | Connecting to Discord...
+2021-01-06 22:00:31 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 22:00:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 22:00:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 22:00:31 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 22:00:31 | [INFO]    | Shard 0 : Received READY
+2021-01-06 22:01:30 | [INFO]    | Discordia 2.8.4
+2021-01-06 22:01:30 | [INFO]    | Connecting to Discord...
+2021-01-06 22:01:30 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 22:01:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 22:01:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 22:01:31 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 22:01:31 | [INFO]    | Shard 0 : Received READY
+2021-01-06 22:01:32 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/794875833897582592/messages
+2021-01-06 22:01:43 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/794875833897582592/messages/bulk-delete
+2021-01-06 22:02:09 | [INFO]    | Discordia 2.8.4
+2021-01-06 22:02:09 | [INFO]    | Connecting to Discord...
+2021-01-06 22:02:09 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 22:02:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 22:02:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 22:02:10 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 22:02:10 | [INFO]    | Shard 0 : Received READY
+2021-01-06 22:02:50 | [INFO]    | Discordia 2.8.4
+2021-01-06 22:02:50 | [INFO]    | Connecting to Discord...
+2021-01-06 22:02:50 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 22:02:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 22:02:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 22:02:50 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 22:02:50 | [INFO]    | Shard 0 : Received READY
+2021-01-06 22:48:32 | [INFO]    | Discordia 2.8.4
+2021-01-06 22:48:32 | [INFO]    | Connecting to Discord...
+2021-01-06 22:48:32 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 22:48:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 22:48:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 22:48:32 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 22:48:32 | [INFO]    | Shard 0 : Received READY
+2021-01-06 22:50:42 | [INFO]    | Discordia 2.8.4
+2021-01-06 22:50:42 | [INFO]    | Connecting to Discord...
+2021-01-06 22:50:42 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 22:50:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 22:50:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 22:50:42 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 22:50:42 | [INFO]    | Shard 0 : Received READY
+2021-01-06 23:24:09 | [INFO]    | Discordia 2.8.4
+2021-01-06 23:24:09 | [INFO]    | Connecting to Discord...
+2021-01-06 23:24:09 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 23:24:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 23:24:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 23:24:09 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 23:24:10 | [INFO]    | Shard 0 : Received READY
+2021-01-06 23:31:32 | [INFO]    | Discordia 2.8.4
+2021-01-06 23:31:32 | [INFO]    | Connecting to Discord...
+2021-01-06 23:31:32 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 23:31:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 23:31:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 23:31:32 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 23:31:32 | [INFO]    | Shard 0 : Received READY
+2021-01-06 23:34:26 | [INFO]    | Discordia 2.8.4
+2021-01-06 23:34:26 | [INFO]    | Connecting to Discord...
+2021-01-06 23:34:26 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 23:34:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 23:34:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 23:34:26 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 23:34:26 | [INFO]    | Shard 0 : Received READY
+2021-01-06 23:34:38 | [INFO]    | Discordia 2.8.4
+2021-01-06 23:34:38 | [INFO]    | Connecting to Discord...
+2021-01-06 23:34:38 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 23:34:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 23:34:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 23:34:38 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 23:34:38 | [INFO]    | Shard 0 : Received READY
+2021-01-06 23:35:39 | [INFO]    | Discordia 2.8.4
+2021-01-06 23:35:39 | [INFO]    | Connecting to Discord...
+2021-01-06 23:35:40 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 23:35:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 23:35:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 23:35:40 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 23:35:40 | [INFO]    | Shard 0 : Received READY
+2021-01-06 23:36:30 | [INFO]    | Discordia 2.8.4
+2021-01-06 23:36:30 | [INFO]    | Connecting to Discord...
+2021-01-06 23:36:30 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 23:36:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 23:36:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 23:36:30 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 23:36:30 | [INFO]    | Shard 0 : Received READY
+2021-01-06 23:37:00 | [INFO]    | Discordia 2.8.4
+2021-01-06 23:37:00 | [INFO]    | Connecting to Discord...
+2021-01-06 23:37:00 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 23:37:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 23:37:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 23:37:00 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 23:37:01 | [INFO]    | Shard 0 : Received READY
+2021-01-06 23:37:11 | [INFO]    | Discordia 2.8.4
+2021-01-06 23:37:11 | [INFO]    | Connecting to Discord...
+2021-01-06 23:37:11 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 23:37:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 23:37:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 23:37:11 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 23:37:11 | [INFO]    | Shard 0 : Received READY
+2021-01-06 23:39:01 | [INFO]    | Discordia 2.8.4
+2021-01-06 23:39:01 | [INFO]    | Connecting to Discord...
+2021-01-06 23:39:02 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 23:39:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 23:39:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 23:39:02 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 23:39:02 | [INFO]    | Shard 0 : Received READY
+2021-01-06 23:41:19 | [INFO]    | Discordia 2.8.4
+2021-01-06 23:41:19 | [INFO]    | Connecting to Discord...
+2021-01-06 23:41:22 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-06 23:41:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 23:41:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 23:41:22 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 23:41:22 | [INFO]    | Shard 0 : Received READY
+2021-01-08 00:55:48 | [INFO]    | Discordia 2.8.4
+2021-01-08 00:55:48 | [INFO]    | Connecting to Discord...
+2021-01-08 00:55:48 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 00:55:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 00:55:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 00:55:48 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 00:55:49 | [INFO]    | Shard 0 : Received READY
+2021-01-08 00:59:36 | [INFO]    | Discordia 2.8.4
+2021-01-08 00:59:36 | [INFO]    | Connecting to Discord...
+2021-01-08 00:59:36 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 00:59:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 00:59:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 00:59:36 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 00:59:36 | [INFO]    | Shard 0 : Received READY
+2021-01-08 01:00:34 | [INFO]    | Discordia 2.8.4
+2021-01-08 01:00:34 | [INFO]    | Connecting to Discord...
+2021-01-08 01:00:35 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 01:00:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 01:00:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 01:00:35 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 01:00:35 | [INFO]    | Shard 0 : Received READY
+2021-01-08 01:03:46 | [INFO]    | Discordia 2.8.4
+2021-01-08 01:03:46 | [INFO]    | Connecting to Discord...
+2021-01-08 01:03:46 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 01:03:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 01:03:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 01:03:46 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 01:03:46 | [INFO]    | Shard 0 : Received READY
+2021-01-08 01:04:26 | [INFO]    | Discordia 2.8.4
+2021-01-08 01:04:26 | [INFO]    | Connecting to Discord...
+2021-01-08 01:04:26 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 01:04:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 01:04:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 01:04:26 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 01:04:26 | [INFO]    | Shard 0 : Received READY
+2021-01-08 01:05:35 | [INFO]    | Discordia 2.8.4
+2021-01-08 01:05:35 | [INFO]    | Connecting to Discord...
+2021-01-08 01:05:35 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 01:05:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 01:05:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 01:05:35 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 01:05:36 | [INFO]    | Shard 0 : Received READY
+2021-01-08 03:08:55 | [INFO]    | Discordia 2.8.4
+2021-01-08 03:08:55 | [INFO]    | Connecting to Discord...
+2021-01-08 03:08:55 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 03:08:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 03:08:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 03:08:56 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 03:08:56 | [INFO]    | Shard 0 : Received READY
+2021-01-08 03:13:38 | [INFO]    | Discordia 2.8.4
+2021-01-08 03:13:38 | [INFO]    | Connecting to Discord...
+2021-01-08 03:13:38 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 03:13:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 03:13:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 03:13:38 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 03:13:38 | [INFO]    | Shard 0 : Received READY
+2021-01-08 03:14:36 | [INFO]    | Discordia 2.8.4
+2021-01-08 03:14:36 | [INFO]    | Connecting to Discord...
+2021-01-08 03:14:36 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 03:14:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 03:14:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 03:14:36 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 03:14:37 | [INFO]    | Shard 0 : Received READY
+2021-01-08 03:27:25 | [INFO]    | Discordia 2.8.4
+2021-01-08 03:27:25 | [INFO]    | Connecting to Discord...
+2021-01-08 03:27:25 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 03:27:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 03:27:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 03:27:25 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 03:27:25 | [INFO]    | Shard 0 : Received READY
+2021-01-08 03:28:01 | [INFO]    | Discordia 2.8.4
+2021-01-08 03:28:01 | [INFO]    | Connecting to Discord...
+2021-01-08 03:28:01 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 03:28:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 03:28:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 03:28:01 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 03:28:02 | [INFO]    | Shard 0 : Received READY
+2021-01-08 03:28:28 | [INFO]    | Discordia 2.8.4
+2021-01-08 03:28:28 | [INFO]    | Connecting to Discord...
+2021-01-08 03:28:28 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 03:28:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 03:28:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 03:28:28 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 03:28:28 | [INFO]    | Shard 0 : Received READY
+2021-01-08 03:35:31 | [INFO]    | Discordia 2.8.4
+2021-01-08 03:35:31 | [INFO]    | Connecting to Discord...
+2021-01-08 03:35:31 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 03:35:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 03:35:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 03:35:33 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 03:35:33 | [INFO]    | Shard 0 : Received READY
+2021-01-08 03:45:01 | [INFO]    | Discordia 2.8.4
+2021-01-08 03:45:01 | [INFO]    | Connecting to Discord...
+2021-01-08 03:45:01 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 03:45:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 03:45:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 03:45:02 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 03:45:02 | [INFO]    | Shard 0 : Received READY
+2021-01-08 03:56:04 | [INFO]    | Discordia 2.8.4
+2021-01-08 03:56:04 | [INFO]    | Connecting to Discord...
+2021-01-08 03:56:04 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 03:56:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 03:56:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 03:56:04 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 03:56:04 | [INFO]    | Shard 0 : Received READY
+2021-01-08 03:56:27 | [INFO]    | Discordia 2.8.4
+2021-01-08 03:56:27 | [INFO]    | Connecting to Discord...
+2021-01-08 03:56:27 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 03:56:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 03:56:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 03:56:27 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 03:56:27 | [INFO]    | Shard 0 : Received READY
+2021-01-08 03:57:07 | [INFO]    | Discordia 2.8.4
+2021-01-08 03:57:07 | [INFO]    | Connecting to Discord...
+2021-01-08 03:57:07 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 03:57:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 03:57:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 03:57:07 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 03:57:07 | [INFO]    | Shard 0 : Received READY
+2021-01-08 03:57:29 | [INFO]    | Discordia 2.8.4
+2021-01-08 03:57:29 | [INFO]    | Connecting to Discord...
+2021-01-08 03:57:30 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 03:57:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 03:57:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 03:57:30 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 03:57:30 | [INFO]    | Shard 0 : Received READY
+2021-01-08 04:00:04 | [INFO]    | Discordia 2.8.4
+2021-01-08 04:00:04 | [INFO]    | Connecting to Discord...
+2021-01-08 04:00:04 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 04:00:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 04:00:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 04:00:04 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 04:00:04 | [INFO]    | Shard 0 : Received READY
+2021-01-08 04:07:10 | [INFO]    | Discordia 2.8.4
+2021-01-08 04:07:10 | [INFO]    | Connecting to Discord...
+2021-01-08 04:07:10 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 04:07:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 04:07:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 04:07:10 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 04:07:10 | [INFO]    | Shard 0 : Received READY
+2021-01-08 04:13:06 | [INFO]    | Discordia 2.8.4
+2021-01-08 04:13:06 | [INFO]    | Connecting to Discord...
+2021-01-08 04:13:06 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-08 04:13:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-08 04:13:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-08 04:13:07 | [INFO]    | Shard 0 : Received HELLO
+2021-01-08 04:13:07 | [INFO]    | Shard 0 : Received READY
+2021-01-14 22:58:13 | [INFO]    | Discordia 2.8.4
+2021-01-14 22:58:13 | [INFO]    | Connecting to Discord...
+2021-01-14 22:58:13 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-14 22:58:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-14 22:58:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-14 22:58:13 | [INFO]    | Shard 0 : Received HELLO
+2021-01-14 22:58:14 | [INFO]    | Shard 0 : Received READY
+2021-01-14 23:00:28 | [INFO]    | Discordia 2.8.4
+2021-01-14 23:00:28 | [INFO]    | Connecting to Discord...
+2021-01-14 23:00:28 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-14 23:00:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-14 23:00:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-14 23:00:28 | [INFO]    | Shard 0 : Received HELLO
+2021-01-14 23:00:28 | [INFO]    | Shard 0 : Received READY
+2021-01-14 23:04:23 | [INFO]    | Discordia 2.8.4
+2021-01-14 23:04:23 | [INFO]    | Connecting to Discord...
+2021-01-14 23:04:23 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-14 23:04:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-14 23:04:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-14 23:04:27 | [INFO]    | Shard 0 : Received HELLO
+2021-01-14 23:04:27 | [INFO]    | Shard 0 : Received READY
+2021-01-14 23:05:32 | [INFO]    | Discordia 2.8.4
+2021-01-14 23:05:32 | [INFO]    | Connecting to Discord...
+2021-01-14 23:05:32 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-14 23:05:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-14 23:05:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-14 23:05:32 | [INFO]    | Shard 0 : Received HELLO
+2021-01-14 23:05:32 | [INFO]    | Shard 0 : Received READY
+2021-01-14 23:11:17 | [INFO]    | Discordia 2.8.4
+2021-01-14 23:11:17 | [INFO]    | Connecting to Discord...
+2021-01-14 23:11:17 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-14 23:11:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-14 23:11:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-14 23:11:17 | [INFO]    | Shard 0 : Received HELLO
+2021-01-14 23:11:17 | [INFO]    | Shard 0 : Received READY
+2021-01-14 23:13:11 | [INFO]    | Discordia 2.8.4
+2021-01-14 23:13:11 | [INFO]    | Connecting to Discord...
+2021-01-14 23:13:11 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-14 23:13:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-14 23:13:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-14 23:13:11 | [INFO]    | Shard 0 : Received HELLO
+2021-01-14 23:13:11 | [INFO]    | Shard 0 : Received READY
+2021-01-14 23:14:13 | [INFO]    | Discordia 2.8.4
+2021-01-14 23:14:13 | [INFO]    | Connecting to Discord...
+2021-01-14 23:14:13 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-14 23:14:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-14 23:14:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-14 23:14:13 | [INFO]    | Shard 0 : Received HELLO
+2021-01-14 23:14:14 | [INFO]    | Shard 0 : Received READY
+2021-01-14 23:14:42 | [INFO]    | Discordia 2.8.4
+2021-01-14 23:14:42 | [INFO]    | Connecting to Discord...
+2021-01-14 23:14:42 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-14 23:14:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-14 23:14:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-14 23:14:42 | [INFO]    | Shard 0 : Received HELLO
+2021-01-14 23:14:42 | [INFO]    | Shard 0 : Received READY
+2021-01-14 23:16:47 | [INFO]    | Discordia 2.8.4
+2021-01-14 23:16:47 | [INFO]    | Connecting to Discord...
+2021-01-14 23:16:47 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-14 23:16:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-14 23:16:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-14 23:16:47 | [INFO]    | Shard 0 : Received HELLO
+2021-01-14 23:16:47 | [INFO]    | Shard 0 : Received READY
+2021-01-14 23:17:36 | [INFO]    | Discordia 2.8.4
+2021-01-14 23:17:36 | [INFO]    | Connecting to Discord...
+2021-01-14 23:17:36 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-14 23:17:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-14 23:17:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-14 23:17:36 | [INFO]    | Shard 0 : Received HELLO
+2021-01-14 23:17:37 | [INFO]    | Shard 0 : Received READY
+2021-01-14 23:19:57 | [INFO]    | Discordia 2.8.4
+2021-01-14 23:19:57 | [INFO]    | Connecting to Discord...
+2021-01-14 23:19:57 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-14 23:19:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-14 23:19:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-14 23:19:57 | [INFO]    | Shard 0 : Received HELLO
+2021-01-14 23:19:58 | [INFO]    | Shard 0 : Received READY
+2021-01-14 23:20:25 | [INFO]    | Discordia 2.8.4
+2021-01-14 23:20:25 | [INFO]    | Connecting to Discord...
+2021-01-14 23:20:25 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-14 23:20:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-14 23:20:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-14 23:20:25 | [INFO]    | Shard 0 : Received HELLO
+2021-01-14 23:20:25 | [INFO]    | Shard 0 : Received READY
+2021-01-14 23:22:01 | [INFO]    | Discordia 2.8.4
+2021-01-14 23:22:01 | [INFO]    | Connecting to Discord...
+2021-01-14 23:22:01 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-14 23:22:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-14 23:22:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-14 23:22:01 | [INFO]    | Shard 0 : Received HELLO
+2021-01-14 23:22:01 | [INFO]    | Shard 0 : Received READY
+2021-01-14 23:23:00 | [INFO]    | Discordia 2.8.4
+2021-01-14 23:23:00 | [INFO]    | Connecting to Discord...
+2021-01-14 23:23:00 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-14 23:23:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-14 23:23:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-14 23:23:00 | [INFO]    | Shard 0 : Received HELLO
+2021-01-14 23:23:00 | [INFO]    | Shard 0 : Received READY
+2021-01-14 23:25:17 | [INFO]    | Discordia 2.8.4
+2021-01-14 23:25:17 | [INFO]    | Connecting to Discord...
+2021-01-14 23:25:17 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-14 23:25:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-14 23:25:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-14 23:25:17 | [INFO]    | Shard 0 : Received HELLO
+2021-01-14 23:25:17 | [INFO]    | Shard 0 : Received READY
+2021-01-14 23:25:20 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/794875833897582592/messages/bulk-delete
+2021-01-15 00:23:46 | [INFO]    | Discordia 2.8.4
+2021-01-15 00:23:46 | [INFO]    | Connecting to Discord...
+2021-01-15 00:23:46 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-15 00:23:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-15 00:23:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-15 00:23:46 | [INFO]    | Shard 0 : Received HELLO
+2021-01-15 00:23:47 | [INFO]    | Shard 0 : Received READY
+2021-01-15 00:23:47 | [ERROR]   | 403 - Forbidden : GET https://discord.com/api/v7/channels/794875833897582592/messages?limit=1&after=794875833897582592
+2021-01-15 00:24:06 | [INFO]    | Discordia 2.8.4
+2021-01-15 00:24:06 | [INFO]    | Connecting to Discord...
+2021-01-15 00:24:06 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-15 00:24:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-15 00:24:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-15 00:24:06 | [INFO]    | Shard 0 : Received HELLO
+2021-01-15 00:24:06 | [INFO]    | Shard 0 : Received READY
+2021-01-15 00:24:07 | [ERROR]   | 403 - Forbidden : GET https://discord.com/api/v7/channels/794875833897582592/messages?limit=1&after=794875833897582592
+2021-01-15 00:25:00 | [INFO]    | Discordia 2.8.4
+2021-01-15 00:25:00 | [INFO]    | Connecting to Discord...
+2021-01-15 00:25:01 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-15 00:25:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-15 00:25:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-15 00:25:01 | [INFO]    | Shard 0 : Received HELLO
+2021-01-15 00:25:01 | [INFO]    | Shard 0 : Received READY
+2021-01-15 00:28:37 | [INFO]    | Discordia 2.8.4
+2021-01-15 00:28:37 | [INFO]    | Connecting to Discord...
+2021-01-15 00:28:37 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-15 00:28:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-15 00:28:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-15 00:28:37 | [INFO]    | Shard 0 : Received HELLO
+2021-01-15 00:28:37 | [INFO]    | Shard 0 : Received READY
+2021-01-15 00:29:04 | [INFO]    | Discordia 2.8.4
+2021-01-15 00:29:04 | [INFO]    | Connecting to Discord...
+2021-01-15 00:29:05 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-15 00:29:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-15 00:29:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-15 00:29:05 | [INFO]    | Shard 0 : Received HELLO
+2021-01-15 00:29:05 | [INFO]    | Shard 0 : Received READY
+2021-01-15 00:29:23 | [INFO]    | Discordia 2.8.4
+2021-01-15 00:29:23 | [INFO]    | Connecting to Discord...
+2021-01-15 00:29:23 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-15 00:29:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-15 00:29:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-15 00:29:23 | [INFO]    | Shard 0 : Received HELLO
+2021-01-15 00:29:23 | [INFO]    | Shard 0 : Received READY
+2021-01-15 00:31:00 | [INFO]    | Discordia 2.8.4
+2021-01-15 00:31:00 | [INFO]    | Connecting to Discord...
+2021-01-15 00:31:00 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-15 00:31:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-15 00:31:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-15 00:31:00 | [INFO]    | Shard 0 : Received HELLO
+2021-01-15 00:31:00 | [INFO]    | Shard 0 : Received READY
+2021-01-15 00:31:10 | [INFO]    | Discordia 2.8.4
+2021-01-15 00:31:10 | [INFO]    | Connecting to Discord...
+2021-01-15 00:31:10 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-15 00:31:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-15 00:31:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-15 00:31:12 | [INFO]    | Shard 0 : Received HELLO
+2021-01-15 00:31:12 | [INFO]    | Shard 0 : Received READY
+2021-01-15 00:37:21 | [INFO]    | Discordia 2.8.4
+2021-01-15 00:37:21 | [INFO]    | Connecting to Discord...
+2021-01-15 00:37:21 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-15 00:37:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-15 00:37:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-15 00:37:21 | [INFO]    | Shard 0 : Received HELLO
+2021-01-15 00:37:21 | [INFO]    | Shard 0 : Received READY
+2021-01-15 00:37:40 | [INFO]    | Discordia 2.8.4
+2021-01-15 00:37:40 | [INFO]    | Connecting to Discord...
+2021-01-15 00:37:40 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-15 00:37:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-15 00:37:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-15 00:37:40 | [INFO]    | Shard 0 : Received HELLO
+2021-01-15 00:37:40 | [INFO]    | Shard 0 : Received READY
+2021-01-15 00:40:53 | [INFO]    | Discordia 2.8.4
+2021-01-15 00:40:53 | [INFO]    | Connecting to Discord...
+2021-01-15 00:40:53 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-15 00:40:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-15 00:40:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-15 00:40:53 | [INFO]    | Shard 0 : Received HELLO
+2021-01-15 00:40:53 | [INFO]    | Shard 0 : Received READY
+2021-01-15 00:43:17 | [INFO]    | Discordia 2.8.4
+2021-01-15 00:43:17 | [INFO]    | Connecting to Discord...
+2021-01-15 00:43:17 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-15 00:43:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-15 00:43:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-15 00:43:17 | [INFO]    | Shard 0 : Received HELLO
+2021-01-15 00:43:17 | [INFO]    | Shard 0 : Received READY
+2021-01-15 00:47:22 | [INFO]    | Discordia 2.8.4
+2021-01-15 00:47:22 | [INFO]    | Connecting to Discord...
+2021-01-15 00:47:22 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-15 00:47:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-15 00:47:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-15 00:47:22 | [INFO]    | Shard 0 : Received HELLO
+2021-01-15 00:47:22 | [INFO]    | Shard 0 : Received READY
+2021-01-15 00:48:32 | [INFO]    | Discordia 2.8.4
+2021-01-15 00:48:32 | [INFO]    | Connecting to Discord...
+2021-01-15 00:48:32 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-15 00:48:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-15 00:48:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-15 00:48:35 | [INFO]    | Shard 0 : Received HELLO
+2021-01-15 00:48:35 | [INFO]    | Shard 0 : Received READY
+2021-01-15 00:49:42 | [INFO]    | Discordia 2.8.4
+2021-01-15 00:49:42 | [INFO]    | Connecting to Discord...
+2021-01-15 00:49:42 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-15 00:49:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-15 00:49:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-15 00:49:42 | [INFO]    | Shard 0 : Received HELLO
+2021-01-15 00:49:43 | [INFO]    | Shard 0 : Received READY
+2021-01-15 01:03:15 | [INFO]    | Discordia 2.8.4
+2021-01-15 01:03:15 | [INFO]    | Connecting to Discord...
+2021-01-15 01:03:15 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-15 01:03:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-15 01:03:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-15 01:03:16 | [INFO]    | Shard 0 : Received HELLO
+2021-01-15 01:03:16 | [INFO]    | Shard 0 : Received READY
+2021-01-15 01:04:37 | [INFO]    | Discordia 2.8.4
+2021-01-15 01:04:37 | [INFO]    | Connecting to Discord...
+2021-01-15 01:04:37 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-15 01:04:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-15 01:04:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-15 01:04:37 | [INFO]    | Shard 0 : Received HELLO
+2021-01-15 01:04:38 | [INFO]    | Shard 0 : Received READY
+2021-01-15 01:05:13 | [INFO]    | Discordia 2.8.4
+2021-01-15 01:05:13 | [INFO]    | Connecting to Discord...
+2021-01-15 01:05:14 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-15 01:05:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-15 01:05:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-15 01:05:15 | [INFO]    | Shard 0 : Received HELLO
+2021-01-15 01:05:16 | [INFO]    | Shard 0 : Received READY
+2021-01-16 05:58:21 | [INFO]    | Discordia 2.8.4
+2021-01-16 05:58:21 | [INFO]    | Connecting to Discord...
+2021-01-16 05:58:21 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 05:58:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 05:58:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 05:58:21 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 05:58:21 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:00:03 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:00:03 | [INFO]    | Connecting to Discord...
+2021-01-16 06:00:03 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:00:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:00:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:00:03 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:00:03 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:00:33 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:00:33 | [INFO]    | Connecting to Discord...
+2021-01-16 06:00:34 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:00:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:00:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:00:34 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:00:34 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:01:25 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:01:25 | [INFO]    | Connecting to Discord...
+2021-01-16 06:01:26 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:01:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:01:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:01:26 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:01:26 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:04:02 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:04:02 | [INFO]    | Connecting to Discord...
+2021-01-16 06:04:02 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:04:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:04:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:04:02 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:04:02 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:04:19 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:04:19 | [INFO]    | Connecting to Discord...
+2021-01-16 06:04:19 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:04:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:04:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:04:19 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:04:19 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:04:36 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:04:36 | [INFO]    | Connecting to Discord...
+2021-01-16 06:04:36 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:04:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:04:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:04:36 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:04:36 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:05:07 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:05:07 | [INFO]    | Connecting to Discord...
+2021-01-16 06:05:07 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:05:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:05:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:05:07 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:05:08 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:05:20 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:05:20 | [INFO]    | Connecting to Discord...
+2021-01-16 06:05:20 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:05:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:05:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:05:20 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:05:20 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:06:27 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:06:27 | [INFO]    | Connecting to Discord...
+2021-01-16 06:06:27 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:06:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:06:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:06:27 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:06:27 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:12:37 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:12:37 | [INFO]    | Connecting to Discord...
+2021-01-16 06:12:37 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:12:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:12:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:12:37 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:12:37 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:12:53 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:12:53 | [INFO]    | Connecting to Discord...
+2021-01-16 06:12:53 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:12:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:12:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:12:53 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:12:53 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:13:52 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:13:52 | [INFO]    | Connecting to Discord...
+2021-01-16 06:13:52 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:13:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:13:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:13:52 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:13:52 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:15:40 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:15:40 | [INFO]    | Connecting to Discord...
+2021-01-16 06:15:40 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:15:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:15:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:15:40 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:15:40 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:16:26 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:16:26 | [INFO]    | Connecting to Discord...
+2021-01-16 06:16:26 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:16:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:16:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:16:26 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:16:27 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:16:41 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:16:41 | [INFO]    | Connecting to Discord...
+2021-01-16 06:16:41 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:16:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:16:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:16:41 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:16:41 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:17:46 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:17:46 | [INFO]    | Connecting to Discord...
+2021-01-16 06:17:46 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:17:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:17:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:17:46 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:17:47 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:18:25 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:18:25 | [INFO]    | Connecting to Discord...
+2021-01-16 06:18:25 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:18:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:18:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:18:25 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:18:25 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:19:30 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:19:30 | [INFO]    | Connecting to Discord...
+2021-01-16 06:19:30 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:19:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:19:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:19:30 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:19:30 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:20:21 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:20:21 | [INFO]    | Connecting to Discord...
+2021-01-16 06:20:21 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:20:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:20:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:20:21 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:20:21 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:22:47 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:22:47 | [INFO]    | Connecting to Discord...
+2021-01-16 06:22:47 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:22:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:22:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:22:51 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:22:51 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:23:36 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:23:36 | [INFO]    | Connecting to Discord...
+2021-01-16 06:23:36 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:23:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:23:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:23:36 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:23:36 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:26:16 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:26:16 | [INFO]    | Connecting to Discord...
+2021-01-16 06:26:16 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:26:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:26:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:26:16 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:26:16 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:27:20 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:27:20 | [INFO]    | Connecting to Discord...
+2021-01-16 06:27:20 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:27:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:27:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:27:20 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:27:20 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:28:34 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:28:34 | [INFO]    | Connecting to Discord...
+2021-01-16 06:28:35 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:28:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:28:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:28:35 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:28:35 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:29:08 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:29:08 | [INFO]    | Connecting to Discord...
+2021-01-16 06:29:08 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:29:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:29:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:29:08 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:29:08 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:29:56 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:29:56 | [INFO]    | Connecting to Discord...
+2021-01-16 06:29:56 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:29:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:29:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:29:56 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:29:56 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:30:40 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:30:40 | [INFO]    | Connecting to Discord...
+2021-01-16 06:30:40 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:30:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:30:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:30:40 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:30:40 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:31:26 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:31:26 | [INFO]    | Connecting to Discord...
+2021-01-16 06:31:26 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:31:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:31:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:31:26 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:31:26 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:31:37 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:31:37 | [INFO]    | Connecting to Discord...
+2021-01-16 06:31:37 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:31:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:31:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:31:37 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:31:37 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:32:02 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:32:02 | [INFO]    | Connecting to Discord...
+2021-01-16 06:32:02 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:32:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:32:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:32:02 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:32:03 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:32:29 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:32:29 | [INFO]    | Connecting to Discord...
+2021-01-16 06:32:29 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:32:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:32:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:32:30 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:32:30 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:32:57 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:32:57 | [INFO]    | Connecting to Discord...
+2021-01-16 06:32:57 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:32:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:32:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:32:57 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:32:57 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:33:53 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:33:53 | [INFO]    | Connecting to Discord...
+2021-01-16 06:33:53 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:33:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:33:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:33:53 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:33:53 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:34:17 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:34:17 | [INFO]    | Connecting to Discord...
+2021-01-16 06:34:18 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:34:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:34:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:34:18 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:34:18 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:35:29 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:35:29 | [INFO]    | Connecting to Discord...
+2021-01-16 06:35:29 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:35:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:35:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:35:29 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:35:30 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:35:47 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:35:47 | [INFO]    | Connecting to Discord...
+2021-01-16 06:35:47 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:35:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:35:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:35:47 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:35:47 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:36:01 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:36:01 | [INFO]    | Connecting to Discord...
+2021-01-16 06:36:01 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:36:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:36:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:36:01 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:36:01 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:37:31 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:37:31 | [INFO]    | Connecting to Discord...
+2021-01-16 06:37:31 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:37:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:37:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:37:31 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:37:31 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:38:15 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:38:15 | [INFO]    | Connecting to Discord...
+2021-01-16 06:38:15 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:38:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:38:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:38:15 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:38:15 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:38:48 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:38:48 | [INFO]    | Connecting to Discord...
+2021-01-16 06:38:48 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:38:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:38:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:38:48 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:38:48 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:39:58 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:39:58 | [INFO]    | Connecting to Discord...
+2021-01-16 06:39:59 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:39:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:39:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:39:59 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:39:59 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:41:34 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:41:34 | [INFO]    | Connecting to Discord...
+2021-01-16 06:41:35 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:41:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:41:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:41:35 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:41:35 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:56:12 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:56:12 | [INFO]    | Connecting to Discord...
+2021-01-16 06:56:12 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:56:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:56:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:56:12 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:56:12 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:57:50 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:57:50 | [INFO]    | Connecting to Discord...
+2021-01-16 06:57:50 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:57:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:57:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:57:50 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:57:50 | [INFO]    | Shard 0 : Received READY
+2021-01-16 06:58:25 | [INFO]    | Discordia 2.8.4
+2021-01-16 06:58:25 | [INFO]    | Connecting to Discord...
+2021-01-16 06:58:25 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 06:58:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 06:58:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 06:58:25 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 06:58:25 | [INFO]    | Shard 0 : Received READY
+2021-01-16 07:00:53 | [INFO]    | Discordia 2.8.4
+2021-01-16 07:00:53 | [INFO]    | Connecting to Discord...
+2021-01-16 07:00:53 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 07:00:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 07:00:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 07:00:53 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 07:00:54 | [INFO]    | Shard 0 : Received READY
+2021-01-16 07:01:29 | [INFO]    | Discordia 2.8.4
+2021-01-16 07:01:29 | [INFO]    | Connecting to Discord...
+2021-01-16 07:01:29 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 07:01:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 07:01:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 07:01:29 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 07:01:29 | [INFO]    | Shard 0 : Received READY
+2021-01-16 07:03:50 | [INFO]    | Discordia 2.8.4
+2021-01-16 07:03:50 | [INFO]    | Connecting to Discord...
+2021-01-16 07:03:51 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 07:03:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 07:03:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 07:03:51 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 07:03:51 | [INFO]    | Shard 0 : Received READY
+2021-01-16 07:04:49 | [INFO]    | Discordia 2.8.4
+2021-01-16 07:04:49 | [INFO]    | Connecting to Discord...
+2021-01-16 07:04:49 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-16 07:04:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-16 07:04:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-16 07:04:49 | [INFO]    | Shard 0 : Received HELLO
+2021-01-16 07:04:50 | [INFO]    | Shard 0 : Received READY
+2021-01-17 15:17:05 | [INFO]    | Discordia 2.8.4
+2021-01-17 15:17:05 | [INFO]    | Connecting to Discord...
+2021-01-17 15:17:05 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-17 15:17:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-17 15:17:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-17 15:17:05 | [INFO]    | Shard 0 : Received HELLO
+2021-01-17 15:17:05 | [INFO]    | Shard 0 : Received READY
+2021-01-17 15:30:47 | [INFO]    | Discordia 2.8.4
+2021-01-17 15:30:47 | [INFO]    | Connecting to Discord...
+2021-01-17 15:30:48 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-17 15:30:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-17 15:30:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-17 15:30:48 | [INFO]    | Shard 0 : Received HELLO
+2021-01-17 15:30:49 | [INFO]    | Shard 0 : Received READY
+2021-01-17 15:31:26 | [INFO]    | Discordia 2.8.4
+2021-01-17 15:31:26 | [INFO]    | Connecting to Discord...
+2021-01-17 15:31:26 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-17 15:31:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-17 15:31:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-17 15:31:26 | [INFO]    | Shard 0 : Received HELLO
+2021-01-17 15:31:26 | [INFO]    | Shard 0 : Received READY
+2021-01-17 15:32:20 | [INFO]    | Discordia 2.8.4
+2021-01-17 15:32:20 | [INFO]    | Connecting to Discord...
+2021-01-17 15:32:21 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-17 15:32:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-17 15:32:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-17 15:32:21 | [INFO]    | Shard 0 : Received HELLO
+2021-01-17 15:32:21 | [INFO]    | Shard 0 : Received READY
+2021-01-17 15:32:42 | [INFO]    | Discordia 2.8.4
+2021-01-17 15:32:42 | [INFO]    | Connecting to Discord...
+2021-01-17 15:32:42 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-17 15:32:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-17 15:32:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-17 15:32:42 | [INFO]    | Shard 0 : Received HELLO
+2021-01-17 15:32:42 | [INFO]    | Shard 0 : Received READY
+2021-01-17 15:40:55 | [INFO]    | Discordia 2.8.4
+2021-01-17 15:40:55 | [INFO]    | Connecting to Discord...
+2021-01-17 15:40:55 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-17 15:40:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-17 15:40:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-17 15:40:55 | [INFO]    | Shard 0 : Received HELLO
+2021-01-17 15:40:55 | [INFO]    | Shard 0 : Received READY
+2021-01-17 15:47:08 | [INFO]    | Discordia 2.8.4
+2021-01-17 15:47:08 | [INFO]    | Connecting to Discord...
+2021-01-17 15:47:08 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-17 15:47:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-17 15:47:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-17 15:47:08 | [INFO]    | Shard 0 : Received HELLO
+2021-01-17 15:47:08 | [INFO]    | Shard 0 : Received READY
+2021-01-17 15:47:29 | [INFO]    | Discordia 2.8.4
+2021-01-17 15:47:29 | [INFO]    | Connecting to Discord...
+2021-01-17 15:47:29 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-17 15:47:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-17 15:47:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-17 15:47:29 | [INFO]    | Shard 0 : Received HELLO
+2021-01-17 15:47:30 | [INFO]    | Shard 0 : Received READY
+2021-01-17 15:48:20 | [INFO]    | Discordia 2.8.4
+2021-01-17 15:48:20 | [INFO]    | Connecting to Discord...
+2021-01-17 15:48:20 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-17 15:48:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-17 15:48:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-17 15:48:20 | [INFO]    | Shard 0 : Received HELLO
+2021-01-17 15:48:20 | [INFO]    | Shard 0 : Received READY
+2021-01-17 15:58:45 | [INFO]    | Discordia 2.8.4
+2021-01-17 15:58:45 | [INFO]    | Connecting to Discord...
+2021-01-17 15:58:46 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-17 15:58:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-17 15:58:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-17 15:58:46 | [INFO]    | Shard 0 : Received HELLO
+2021-01-17 15:58:46 | [INFO]    | Shard 0 : Received READY
+2021-01-17 15:58:57 | [INFO]    | Discordia 2.8.4
+2021-01-17 15:58:57 | [INFO]    | Connecting to Discord...
+2021-01-17 15:58:57 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-17 15:58:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-17 15:58:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-17 15:58:57 | [INFO]    | Shard 0 : Received HELLO
+2021-01-17 15:58:57 | [INFO]    | Shard 0 : Received READY
+2021-01-17 15:59:36 | [INFO]    | Discordia 2.8.4
+2021-01-17 15:59:36 | [INFO]    | Connecting to Discord...
+2021-01-17 15:59:36 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-17 15:59:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-17 15:59:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-17 15:59:37 | [INFO]    | Shard 0 : Received HELLO
+2021-01-17 15:59:37 | [INFO]    | Shard 0 : Received READY
+2021-01-17 15:59:54 | [INFO]    | Discordia 2.8.4
+2021-01-17 15:59:54 | [INFO]    | Connecting to Discord...
+2021-01-17 15:59:55 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-17 15:59:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-17 15:59:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-17 15:59:55 | [INFO]    | Shard 0 : Received HELLO
+2021-01-17 15:59:55 | [INFO]    | Shard 0 : Received READY
+2021-01-17 16:01:01 | [INFO]    | Discordia 2.8.4
+2021-01-17 16:01:01 | [INFO]    | Connecting to Discord...
+2021-01-17 16:01:02 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-17 16:01:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-17 16:01:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-17 16:01:02 | [INFO]    | Shard 0 : Received HELLO
+2021-01-17 16:01:02 | [INFO]    | Shard 0 : Received READY
+2021-01-17 16:05:37 | [INFO]    | Discordia 2.8.4
+2021-01-17 16:05:37 | [INFO]    | Connecting to Discord...
+2021-01-17 16:05:37 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-17 16:05:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-17 16:05:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-17 16:05:37 | [INFO]    | Shard 0 : Received HELLO
+2021-01-17 16:05:37 | [INFO]    | Shard 0 : Received READY
+2021-01-17 16:07:14 | [INFO]    | Discordia 2.8.4
+2021-01-17 16:07:14 | [INFO]    | Connecting to Discord...
+2021-01-17 16:07:14 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-17 16:07:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-17 16:07:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-17 16:07:14 | [INFO]    | Shard 0 : Received HELLO
+2021-01-17 16:07:14 | [INFO]    | Shard 0 : Received READY
+2021-01-17 16:07:46 | [INFO]    | Discordia 2.8.4
+2021-01-17 16:07:46 | [INFO]    | Connecting to Discord...
+2021-01-17 16:07:46 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-17 16:07:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-17 16:07:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-17 16:07:46 | [INFO]    | Shard 0 : Received HELLO
+2021-01-17 16:07:46 | [INFO]    | Shard 0 : Received READY
+2021-01-21 17:36:22 | [INFO]    | Discordia 2.8.4
+2021-01-21 17:36:22 | [INFO]    | Connecting to Discord...
+2021-01-21 17:36:22 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 17:36:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 17:36:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 17:36:22 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 17:36:22 | [INFO]    | Shard 0 : Received READY
+2021-01-21 17:45:03 | [INFO]    | Discordia 2.8.4
+2021-01-21 17:45:03 | [INFO]    | Connecting to Discord...
+2021-01-21 17:45:38 | [INFO]    | Discordia 2.8.4
+2021-01-21 17:45:38 | [INFO]    | Connecting to Discord...
+2021-01-21 17:46:08 | [ERROR]   | Could not authenticate, check token: ...ments/com~apple~CloudDocs/wordgamebot/deps/coro-http.lua:74: EAI_NONAME
+2021-01-21 17:52:34 | [INFO]    | Discordia 2.8.4
+2021-01-21 17:52:34 | [INFO]    | Connecting to Discord...
+2021-01-21 17:52:34 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 17:52:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 17:52:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 17:52:34 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 17:52:34 | [INFO]    | Shard 0 : Received READY
+2021-01-21 17:53:05 | [INFO]    | Discordia 2.8.4
+2021-01-21 17:53:05 | [INFO]    | Connecting to Discord...
+2021-01-21 17:53:05 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 17:53:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 17:53:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 17:53:05 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 17:53:05 | [INFO]    | Shard 0 : Received READY
+2021-01-21 17:53:13 | [INFO]    | Discordia 2.8.4
+2021-01-21 17:53:13 | [INFO]    | Connecting to Discord...
+2021-01-21 17:53:13 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 17:53:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 17:53:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 17:53:13 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 17:53:13 | [INFO]    | Shard 0 : Received READY
+2021-01-21 17:53:30 | [INFO]    | Discordia 2.8.4
+2021-01-21 17:53:30 | [INFO]    | Connecting to Discord...
+2021-01-21 17:53:30 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 17:53:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 17:53:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 17:53:30 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 17:53:30 | [INFO]    | Shard 0 : Received READY
+2021-01-21 17:55:12 | [INFO]    | Discordia 2.8.4
+2021-01-21 17:55:12 | [INFO]    | Connecting to Discord...
+2021-01-21 17:55:12 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 17:55:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 17:55:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 17:55:12 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 17:55:13 | [INFO]    | Shard 0 : Received READY
+2021-01-21 17:55:59 | [INFO]    | Discordia 2.8.4
+2021-01-21 17:55:59 | [INFO]    | Connecting to Discord...
+2021-01-21 17:55:59 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 17:55:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 17:55:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 17:55:59 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 17:55:59 | [INFO]    | Shard 0 : Received READY
+2021-01-21 18:17:48 | [INFO]    | Discordia 2.8.4
+2021-01-21 18:17:48 | [INFO]    | Connecting to Discord...
+2021-01-21 18:17:48 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 18:17:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 18:17:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 18:17:49 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 18:17:49 | [INFO]    | Shard 0 : Received READY
+2021-01-21 18:18:51 | [INFO]    | Discordia 2.8.4
+2021-01-21 18:18:51 | [INFO]    | Connecting to Discord...
+2021-01-21 18:18:51 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 18:18:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 18:18:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 18:18:51 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 18:18:51 | [INFO]    | Shard 0 : Received READY
+2021-01-21 18:21:52 | [INFO]    | Discordia 2.8.4
+2021-01-21 18:21:52 | [INFO]    | Connecting to Discord...
+2021-01-21 18:21:52 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 18:21:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 18:21:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 18:21:53 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 18:21:53 | [INFO]    | Shard 0 : Received READY
+2021-01-21 18:23:24 | [INFO]    | Discordia 2.8.4
+2021-01-21 18:23:24 | [INFO]    | Connecting to Discord...
+2021-01-21 18:23:25 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 18:23:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 18:23:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 18:23:25 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 18:23:25 | [INFO]    | Shard 0 : Received READY
+2021-01-21 18:49:35 | [INFO]    | Discordia 2.8.4
+2021-01-21 18:49:35 | [INFO]    | Connecting to Discord...
+2021-01-21 18:49:35 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 18:49:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 18:49:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 18:49:36 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 18:49:36 | [INFO]    | Shard 0 : Received READY
+2021-01-21 18:49:38 | [INFO]    | Discordia 2.8.4
+2021-01-21 18:49:38 | [INFO]    | Connecting to Discord...
+2021-01-21 18:49:38 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 18:49:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 18:49:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 18:49:38 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 18:49:41 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2021-01-21 18:50:19 | [INFO]    | Discordia 2.8.4
+2021-01-21 18:50:19 | [INFO]    | Connecting to Discord...
+2021-01-21 18:50:19 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 18:50:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 18:50:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 18:50:19 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 18:50:19 | [INFO]    | Shard 0 : Received READY
+2021-01-21 18:51:49 | [INFO]    | Discordia 2.8.4
+2021-01-21 18:51:49 | [INFO]    | Connecting to Discord...
+2021-01-21 18:51:49 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 18:51:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 18:51:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 18:51:49 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 18:51:49 | [INFO]    | Shard 0 : Received READY
+2021-01-21 18:54:30 | [INFO]    | Discordia 2.8.4
+2021-01-21 18:54:30 | [INFO]    | Connecting to Discord...
+2021-01-21 18:54:30 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 18:54:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 18:54:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 18:54:30 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 18:54:30 | [INFO]    | Shard 0 : Received READY
+2021-01-21 18:54:50 | [INFO]    | Discordia 2.8.4
+2021-01-21 18:54:50 | [INFO]    | Connecting to Discord...
+2021-01-21 18:54:51 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 18:54:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 18:54:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 18:54:51 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 18:54:51 | [INFO]    | Shard 0 : Received READY
+2021-01-21 18:55:34 | [INFO]    | Discordia 2.8.4
+2021-01-21 18:55:34 | [INFO]    | Connecting to Discord...
+2021-01-21 18:55:34 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 18:55:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 18:55:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 18:55:34 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 18:55:34 | [INFO]    | Shard 0 : Received READY
+2021-01-21 18:55:53 | [INFO]    | Discordia 2.8.4
+2021-01-21 18:55:53 | [INFO]    | Connecting to Discord...
+2021-01-21 18:55:53 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 18:55:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 18:55:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 18:55:53 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 18:55:53 | [INFO]    | Shard 0 : Received READY
+2021-01-21 18:56:43 | [INFO]    | Discordia 2.8.4
+2021-01-21 18:56:43 | [INFO]    | Connecting to Discord...
+2021-01-21 18:56:44 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 18:56:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 18:56:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 18:56:44 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 18:56:44 | [INFO]    | Shard 0 : Received READY
+2021-01-21 18:57:24 | [INFO]    | Discordia 2.8.4
+2021-01-21 18:57:24 | [INFO]    | Connecting to Discord...
+2021-01-21 18:57:24 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 18:57:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 18:57:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 18:57:24 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 18:57:24 | [INFO]    | Shard 0 : Received READY
+2021-01-21 20:23:59 | [INFO]    | Discordia 2.8.4
+2021-01-21 20:23:59 | [INFO]    | Connecting to Discord...
+2021-01-21 20:23:59 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 20:24:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 20:24:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 20:24:00 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 20:24:00 | [INFO]    | Shard 0 : Received READY
+2021-01-21 20:24:43 | [INFO]    | Discordia 2.8.4
+2021-01-21 20:24:43 | [INFO]    | Connecting to Discord...
+2021-01-21 20:24:43 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 20:24:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 20:24:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 20:24:43 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 20:24:43 | [INFO]    | Shard 0 : Received READY
+2021-01-21 20:27:00 | [INFO]    | Discordia 2.8.4
+2021-01-21 20:27:00 | [INFO]    | Connecting to Discord...
+2021-01-21 20:27:00 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 20:27:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 20:27:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 20:27:00 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 20:27:00 | [INFO]    | Shard 0 : Received READY
+2021-01-21 20:32:12 | [INFO]    | Discordia 2.8.4
+2021-01-21 20:32:12 | [INFO]    | Connecting to Discord...
+2021-01-21 20:32:12 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 20:32:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 20:32:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 20:32:14 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 20:32:14 | [INFO]    | Shard 0 : Received READY
+2021-01-21 20:37:02 | [INFO]    | Discordia 2.8.4
+2021-01-21 20:37:02 | [INFO]    | Connecting to Discord...
+2021-01-21 20:37:02 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 20:37:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 20:37:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 20:37:02 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 20:37:02 | [INFO]    | Shard 0 : Received READY
+2021-01-21 20:37:23 | [INFO]    | Discordia 2.8.4
+2021-01-21 20:37:23 | [INFO]    | Connecting to Discord...
+2021-01-21 20:37:23 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 20:37:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 20:37:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 20:37:23 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 20:37:24 | [INFO]    | Shard 0 : Received READY
+2021-01-21 20:47:10 | [INFO]    | Discordia 2.8.4
+2021-01-21 20:47:10 | [INFO]    | Connecting to Discord...
+2021-01-21 20:47:10 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 20:47:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 20:47:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 20:47:10 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 20:47:10 | [INFO]    | Shard 0 : Received READY
+2021-01-21 20:48:06 | [INFO]    | Discordia 2.8.4
+2021-01-21 20:48:06 | [INFO]    | Connecting to Discord...
+2021-01-21 20:48:06 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 20:48:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 20:48:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 20:48:06 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 20:48:06 | [INFO]    | Shard 0 : Received READY
+2021-01-21 20:49:39 | [INFO]    | Discordia 2.8.4
+2021-01-21 20:49:39 | [INFO]    | Connecting to Discord...
+2021-01-21 20:49:40 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 20:49:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 20:49:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 20:49:40 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 20:49:40 | [INFO]    | Shard 0 : Received READY
+2021-01-21 20:50:32 | [INFO]    | Discordia 2.8.4
+2021-01-21 20:50:32 | [INFO]    | Connecting to Discord...
+2021-01-21 20:50:32 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 20:50:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 20:50:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 20:50:32 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 20:50:32 | [INFO]    | Shard 0 : Received READY
+2021-01-21 20:50:52 | [INFO]    | Discordia 2.8.4
+2021-01-21 20:50:52 | [INFO]    | Connecting to Discord...
+2021-01-21 20:50:52 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 20:50:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 20:50:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 20:50:52 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 20:50:52 | [INFO]    | Shard 0 : Received READY
+2021-01-21 20:57:39 | [INFO]    | Discordia 2.8.4
+2021-01-21 20:57:39 | [INFO]    | Connecting to Discord...
+2021-01-21 20:57:39 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 20:57:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 20:57:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 20:57:42 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 20:57:42 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:02:00 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:02:00 | [INFO]    | Connecting to Discord...
+2021-01-21 21:02:00 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:02:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:02:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:02:00 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:02:00 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:02:14 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:02:14 | [INFO]    | Connecting to Discord...
+2021-01-21 21:02:14 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:02:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:02:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:02:14 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:02:14 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:02:33 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:02:33 | [INFO]    | Connecting to Discord...
+2021-01-21 21:02:33 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:02:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:02:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:02:33 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:02:33 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:03:04 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:03:04 | [INFO]    | Connecting to Discord...
+2021-01-21 21:03:04 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:03:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:03:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:03:04 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:03:04 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:06:06 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:06:06 | [INFO]    | Connecting to Discord...
+2021-01-21 21:06:07 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:06:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:06:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:06:08 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:06:08 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:07:00 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:07:00 | [INFO]    | Connecting to Discord...
+2021-01-21 21:07:00 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:07:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:07:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:07:00 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:07:00 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:07:27 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:07:27 | [INFO]    | Connecting to Discord...
+2021-01-21 21:07:27 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:07:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:07:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:07:27 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:07:27 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:08:00 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:08:00 | [INFO]    | Connecting to Discord...
+2021-01-21 21:08:00 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:08:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:08:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:08:00 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:08:00 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:08:26 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:08:26 | [INFO]    | Connecting to Discord...
+2021-01-21 21:08:26 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:08:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:08:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:08:26 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:08:26 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:08:34 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:08:34 | [INFO]    | Connecting to Discord...
+2021-01-21 21:08:34 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:08:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:08:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:08:34 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:08:34 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:08:59 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:08:59 | [INFO]    | Connecting to Discord...
+2021-01-21 21:09:00 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:09:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:09:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:09:00 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:09:00 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:09:45 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:09:45 | [INFO]    | Connecting to Discord...
+2021-01-21 21:09:45 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:09:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:09:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:09:45 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:09:45 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:10:45 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:10:45 | [INFO]    | Connecting to Discord...
+2021-01-21 21:10:45 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:10:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:10:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:10:45 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:10:45 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:12:08 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:12:08 | [INFO]    | Connecting to Discord...
+2021-01-21 21:12:08 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:12:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:12:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:12:08 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:12:09 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:12:32 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:12:32 | [INFO]    | Connecting to Discord...
+2021-01-21 21:12:32 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:12:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:12:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:12:32 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:12:32 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:13:39 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:13:39 | [INFO]    | Connecting to Discord...
+2021-01-21 21:13:39 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:13:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:13:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:13:39 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:13:39 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:14:11 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:14:11 | [INFO]    | Connecting to Discord...
+2021-01-21 21:14:11 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:14:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:14:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:14:11 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:14:11 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:15:07 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:15:07 | [INFO]    | Connecting to Discord...
+2021-01-21 21:15:07 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:15:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:15:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:15:07 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:15:07 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:15:30 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:15:30 | [INFO]    | Connecting to Discord...
+2021-01-21 21:15:30 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:15:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:15:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:15:30 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:15:30 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:17:17 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:17:17 | [INFO]    | Connecting to Discord...
+2021-01-21 21:17:17 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:17:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:17:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:17:20 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:17:21 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:17:27 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801996589773094912
+2021-01-21 21:17:28 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801996589773094912
+2021-01-21 21:17:28 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801996589773094912
+2021-01-21 21:17:28 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801996589773094912
+2021-01-21 21:17:32 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801996589773094912
+2021-01-21 21:17:32 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801996589773094912
+2021-01-21 21:20:07 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:20:07 | [INFO]    | Connecting to Discord...
+2021-01-21 21:20:07 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:20:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:20:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:20:07 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:20:07 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:20:15 | [WARNING] | 429 - Too Many Requests : retrying after 3211 ms : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801998939251277896
+2021-01-21 21:20:19 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801998943139397633
+2021-01-21 21:20:19 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801998944913326128
+2021-01-21 21:20:19 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801998946359967805
+2021-01-21 21:20:20 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801998961003069470
+2021-01-21 21:20:23 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801998939251277896
+2021-01-21 21:20:24 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801998941217751040
+2021-01-21 21:20:24 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801998944913326128
+2021-01-21 21:20:24 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801998946359967805
+2021-01-21 21:20:25 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801998961003069470
+2021-01-21 21:20:29 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801998939251277896
+2021-01-21 21:20:29 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801998941217751040
+2021-01-21 21:20:29 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801998943139397633
+2021-01-21 21:20:30 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801998946359967805
+2021-01-21 21:20:30 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801998961003069470
+2021-01-21 21:20:34 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801998939251277896
+2021-01-21 21:20:34 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801998941217751040
+2021-01-21 21:20:34 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801998943139397633
+2021-01-21 21:20:35 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801998944913326128
+2021-01-21 21:20:35 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/801998961003069470
+2021-01-21 21:21:35 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:21:35 | [INFO]    | Connecting to Discord...
+2021-01-21 21:21:35 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:21:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:21:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:21:35 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:21:35 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:21:51 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:21:51 | [INFO]    | Connecting to Discord...
+2021-01-21 21:21:51 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:21:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:21:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:21:51 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:21:51 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:21:59 | [WARNING] | 429 - Too Many Requests : retrying after 3244 ms : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802000007981039626
+2021-01-21 21:22:03 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802000011029774346
+2021-01-21 21:22:03 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802000012665290752
+2021-01-21 21:22:03 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802000014381416488
+2021-01-21 21:22:04 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802000029668868096
+2021-01-21 21:22:07 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802000007981039626
+2021-01-21 21:22:08 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802000009536995338
+2021-01-21 21:22:08 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802000012665290752
+2021-01-21 21:22:08 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802000014381416488
+2021-01-21 21:22:09 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802000029668868096
+2021-01-21 21:22:12 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802000007981039626
+2021-01-21 21:22:13 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802000009536995338
+2021-01-21 21:22:13 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802000011029774346
+2021-01-21 21:22:13 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802000014381416488
+2021-01-21 21:22:14 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802000029668868096
+2021-01-21 21:22:18 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802000007981039626
+2021-01-21 21:22:18 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802000009536995338
+2021-01-21 21:22:18 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802000011029774346
+2021-01-21 21:22:19 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802000012665290752
+2021-01-21 21:22:19 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802000029668868096
+2021-01-21 21:39:47 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:39:47 | [INFO]    | Connecting to Discord...
+2021-01-21 21:39:47 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:39:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:39:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:39:48 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:39:48 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:40:37 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:40:37 | [INFO]    | Connecting to Discord...
+2021-01-21 21:40:37 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:40:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:40:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:40:37 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:40:37 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:41:23 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:41:23 | [INFO]    | Connecting to Discord...
+2021-01-21 21:41:23 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:41:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:41:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:41:23 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:41:24 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:49:07 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:49:07 | [INFO]    | Connecting to Discord...
+2021-01-21 21:49:07 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:49:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:49:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:49:07 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:49:07 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:49:15 | [WARNING] | 429 - Too Many Requests : retrying after 3288 ms : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802004610931884063
+2021-01-21 21:49:34 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:49:34 | [INFO]    | Connecting to Discord...
+2021-01-21 21:49:34 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:49:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:49:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:49:35 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:49:35 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:49:43 | [WARNING] | 429 - Too Many Requests : retrying after 3133 ms : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802006957828997130
+2021-01-21 21:52:13 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:52:13 | [INFO]    | Connecting to Discord...
+2021-01-21 21:52:14 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:52:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:52:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:52:14 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:52:14 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:52:22 | [WARNING] | 429 - Too Many Requests : retrying after 3223 ms : DELETE https://discord.com/api/v7/channels/794875833897582592/messages/802007073025687603
+2021-01-21 21:53:22 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:53:22 | [INFO]    | Connecting to Discord...
+2021-01-21 21:53:23 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:53:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:53:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:53:23 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:53:23 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:55:26 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:55:26 | [INFO]    | Connecting to Discord...
+2021-01-21 21:55:26 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:55:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:55:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:55:26 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:55:26 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:55:56 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:55:56 | [INFO]    | Connecting to Discord...
+2021-01-21 21:55:57 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:55:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:55:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:55:57 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:55:57 | [INFO]    | Shard 0 : Received READY
+2021-01-21 21:59:34 | [INFO]    | Discordia 2.8.4
+2021-01-21 21:59:34 | [INFO]    | Connecting to Discord...
+2021-01-21 21:59:35 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 21:59:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 21:59:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 21:59:35 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 21:59:35 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:01:05 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:01:05 | [INFO]    | Connecting to Discord...
+2021-01-21 22:01:05 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:01:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:01:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:01:05 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:01:05 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:01:31 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:01:31 | [INFO]    | Connecting to Discord...
+2021-01-21 22:01:31 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:01:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:01:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:01:31 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:01:31 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:01:48 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:01:48 | [INFO]    | Connecting to Discord...
+2021-01-21 22:01:48 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:01:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:01:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:01:48 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:01:48 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:02:13 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:02:13 | [INFO]    | Connecting to Discord...
+2021-01-21 22:02:13 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:02:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:02:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:02:13 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:02:14 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:02:44 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:02:44 | [INFO]    | Connecting to Discord...
+2021-01-21 22:02:45 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:02:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:02:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:02:45 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:02:45 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:02:53 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:02:53 | [INFO]    | Connecting to Discord...
+2021-01-21 22:02:53 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:02:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:02:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:02:53 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:02:53 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:07:43 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:07:43 | [INFO]    | Connecting to Discord...
+2021-01-21 22:07:43 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:07:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:07:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:07:43 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:07:43 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:08:09 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:08:09 | [INFO]    | Connecting to Discord...
+2021-01-21 22:08:09 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:08:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:08:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:08:09 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:08:09 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:08:34 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:08:34 | [INFO]    | Connecting to Discord...
+2021-01-21 22:08:34 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:08:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:08:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:08:34 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:08:34 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:08:53 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:08:53 | [INFO]    | Connecting to Discord...
+2021-01-21 22:08:53 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:08:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:08:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:08:54 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:08:54 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:09:40 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:09:40 | [INFO]    | Connecting to Discord...
+2021-01-21 22:09:40 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:09:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:09:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:09:40 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:09:40 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:09:50 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:09:50 | [INFO]    | Connecting to Discord...
+2021-01-21 22:09:50 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:09:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:09:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:09:50 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:09:50 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:10:38 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:10:38 | [INFO]    | Connecting to Discord...
+2021-01-21 22:10:38 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:10:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:10:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:10:38 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:10:38 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:11:17 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:11:17 | [INFO]    | Connecting to Discord...
+2021-01-21 22:11:18 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:11:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:11:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:11:18 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:11:18 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:13:18 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:13:18 | [INFO]    | Connecting to Discord...
+2021-01-21 22:13:18 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:13:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:13:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:13:18 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:13:18 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:13:36 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:13:36 | [INFO]    | Connecting to Discord...
+2021-01-21 22:13:36 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:13:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:13:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:13:37 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:13:37 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:15:18 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:15:18 | [INFO]    | Connecting to Discord...
+2021-01-21 22:15:19 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:15:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:15:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:15:19 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:15:19 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:15:39 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:15:39 | [INFO]    | Connecting to Discord...
+2021-01-21 22:15:39 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:15:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:15:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:15:40 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:15:40 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:16:00 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:16:00 | [INFO]    | Connecting to Discord...
+2021-01-21 22:16:00 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:16:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:16:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:16:00 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:16:00 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:16:48 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:16:48 | [INFO]    | Connecting to Discord...
+2021-01-21 22:16:48 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:16:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:16:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:16:49 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:16:50 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:17:20 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:17:20 | [INFO]    | Connecting to Discord...
+2021-01-21 22:17:20 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:17:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:17:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:17:21 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:17:21 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:17:48 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:17:48 | [INFO]    | Connecting to Discord...
+2021-01-21 22:17:48 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:17:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:17:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:17:48 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:17:48 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:18:10 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:18:10 | [INFO]    | Connecting to Discord...
+2021-01-21 22:18:10 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:18:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:18:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:18:10 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:18:10 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:18:25 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:18:25 | [INFO]    | Connecting to Discord...
+2021-01-21 22:18:25 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:18:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:18:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:18:25 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:18:25 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:20:49 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:20:49 | [INFO]    | Connecting to Discord...
+2021-01-21 22:20:49 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:20:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:20:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:20:50 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:20:50 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:21:07 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:21:07 | [INFO]    | Connecting to Discord...
+2021-01-21 22:21:07 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:21:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:21:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:21:07 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:21:08 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:21:27 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:21:27 | [INFO]    | Connecting to Discord...
+2021-01-21 22:21:27 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:21:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:21:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:21:27 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:21:27 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:22:12 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:22:12 | [INFO]    | Connecting to Discord...
+2021-01-21 22:22:12 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:22:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:22:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:22:12 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:22:12 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:22:28 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:22:28 | [INFO]    | Connecting to Discord...
+2021-01-21 22:22:28 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:22:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:22:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:22:28 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:22:28 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:22:52 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:22:52 | [INFO]    | Connecting to Discord...
+2021-01-21 22:22:52 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:22:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:22:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:22:52 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:22:52 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:24:06 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:24:06 | [INFO]    | Connecting to Discord...
+2021-01-21 22:24:06 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:24:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:24:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:24:06 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:24:06 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:25:03 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:25:03 | [INFO]    | Connecting to Discord...
+2021-01-21 22:25:03 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:25:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:25:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:25:03 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:25:03 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:39:05 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:39:05 | [INFO]    | Connecting to Discord...
+2021-01-21 22:39:05 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:39:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:39:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:39:05 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:39:05 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:41:49 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:41:49 | [INFO]    | Connecting to Discord...
+2021-01-21 22:41:49 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:41:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:41:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:41:49 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:41:49 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:42:28 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:42:28 | [INFO]    | Connecting to Discord...
+2021-01-21 22:42:28 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:42:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:42:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:42:28 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:42:28 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:53:44 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:53:44 | [INFO]    | Connecting to Discord...
+2021-01-21 22:53:45 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:53:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:53:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:53:45 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:53:45 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:58:43 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:58:43 | [INFO]    | Connecting to Discord...
+2021-01-21 22:58:44 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:58:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:58:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:58:44 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:58:44 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:58:51 | [INFO]    | Discordia 2.8.4
+2021-01-21 22:58:51 | [INFO]    | Connecting to Discord...
+2021-01-21 22:58:51 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 22:58:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 22:58:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 22:58:51 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 22:58:51 | [INFO]    | Shard 0 : Received READY
+2021-01-21 22:59:28 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/784644349879255080/messages/bulk-delete
+2021-01-21 23:00:10 | [INFO]    | Discordia 2.8.4
+2021-01-21 23:00:10 | [INFO]    | Connecting to Discord...
+2021-01-21 23:00:10 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 23:00:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 23:00:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 23:00:10 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 23:00:10 | [INFO]    | Shard 0 : Received READY
+2021-01-21 23:00:33 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/784644349879255080/messages
+2021-01-21 23:01:06 | [INFO]    | Discordia 2.8.4
+2021-01-21 23:01:06 | [INFO]    | Connecting to Discord...
+2021-01-21 23:01:06 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 23:01:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 23:01:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 23:01:06 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 23:01:06 | [INFO]    | Shard 0 : Received READY
+2021-01-21 23:01:32 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/784644349879255080/messages
+2021-01-21 23:04:19 | [INFO]    | Discordia 2.8.4
+2021-01-21 23:04:19 | [INFO]    | Connecting to Discord...
+2021-01-21 23:04:19 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 23:04:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 23:04:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 23:04:19 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 23:04:19 | [INFO]    | Shard 0 : Received READY
+2021-01-21 23:05:02 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/784644349879255080/messages/802024885630664714
+2021-01-21 23:06:12 | [INFO]    | Discordia 2.8.4
+2021-01-21 23:06:12 | [INFO]    | Connecting to Discord...
+2021-01-21 23:06:12 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 23:06:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 23:06:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 23:06:12 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 23:06:12 | [INFO]    | Shard 0 : Received READY
+2021-01-21 23:07:24 | [INFO]    | Discordia 2.8.4
+2021-01-21 23:07:24 | [INFO]    | Connecting to Discord...
+2021-01-21 23:07:24 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 23:07:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 23:07:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 23:07:24 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 23:07:24 | [INFO]    | Shard 0 : Received READY
+2021-01-21 23:07:47 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/784644349879255080/messages
+2021-01-21 23:07:48 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/784644349879255080/messages
+2021-01-21 23:10:04 | [INFO]    | Discordia 2.8.4
+2021-01-21 23:10:04 | [INFO]    | Connecting to Discord...
+2021-01-21 23:10:05 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 23:10:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 23:10:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 23:10:05 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 23:10:05 | [INFO]    | Shard 0 : Received READY
+2021-01-21 23:10:27 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/784644349879255080/messages
+2021-01-21 23:10:27 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/784644349879255080/messages
+2021-01-21 23:10:56 | [INFO]    | Discordia 2.8.4
+2021-01-21 23:10:56 | [INFO]    | Connecting to Discord...
+2021-01-21 23:10:57 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 23:10:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 23:10:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 23:10:57 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 23:10:57 | [INFO]    | Shard 0 : Received READY
+2021-01-21 23:11:47 | [INFO]    | Discordia 2.8.4
+2021-01-21 23:11:47 | [INFO]    | Connecting to Discord...
+2021-01-21 23:11:47 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 23:11:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 23:11:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 23:11:48 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 23:11:48 | [INFO]    | Shard 0 : Received READY
+2021-01-21 23:12:50 | [INFO]    | Discordia 2.8.4
+2021-01-21 23:12:50 | [INFO]    | Connecting to Discord...
+2021-01-21 23:12:50 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 23:12:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 23:12:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 23:12:50 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 23:12:50 | [INFO]    | Shard 0 : Received READY
+2021-01-21 23:14:09 | [INFO]    | Discordia 2.8.4
+2021-01-21 23:14:09 | [INFO]    | Connecting to Discord...
+2021-01-21 23:14:09 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 23:14:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 23:14:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 23:14:09 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 23:14:09 | [INFO]    | Shard 0 : Received READY
+2021-01-21 23:17:34 | [INFO]    | Discordia 2.8.4
+2021-01-21 23:17:34 | [INFO]    | Connecting to Discord...
+2021-01-21 23:17:34 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 23:17:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 23:17:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 23:17:34 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 23:17:34 | [INFO]    | Shard 0 : Received READY
+2021-01-21 23:18:17 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/784644349879255080/messages/802028416135987250
+2021-01-21 23:18:30 | [INFO]    | Discordia 2.8.4
+2021-01-21 23:18:30 | [INFO]    | Connecting to Discord...
+2021-01-21 23:18:30 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 23:18:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 23:18:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 23:18:30 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 23:18:30 | [INFO]    | Shard 0 : Received READY
+2021-01-21 23:19:15 | [INFO]    | Discordia 2.8.4
+2021-01-21 23:19:15 | [INFO]    | Connecting to Discord...
+2021-01-21 23:19:15 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 23:19:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 23:19:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 23:19:15 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 23:19:15 | [INFO]    | Shard 0 : Received READY
+2021-01-21 23:36:40 | [INFO]    | Discordia 2.8.4
+2021-01-21 23:36:40 | [INFO]    | Connecting to Discord...
+2021-01-21 23:36:41 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 23:36:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 23:36:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 23:36:41 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 23:36:41 | [INFO]    | Shard 0 : Received READY
+2021-01-21 23:37:23 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/784644349879255080/messages/802029700901765141
+2021-01-21 23:37:23 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/784644349879255080/messages/802029498610221086
+2021-01-21 23:37:24 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/784644349879255080/messages/802029500195799041
+2021-01-21 23:37:24 | [ERROR]   | 404 - Not Found : DELETE https://discord.com/api/v7/channels/784644349879255080/messages/802029502061871134
+2021-01-21 23:37:57 | [INFO]    | Discordia 2.8.4
+2021-01-21 23:37:57 | [INFO]    | Connecting to Discord...
+2021-01-21 23:37:57 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 23:37:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 23:37:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 23:37:57 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 23:37:57 | [INFO]    | Shard 0 : Received READY
+2021-01-21 23:38:32 | [INFO]    | Discordia 2.8.4
+2021-01-21 23:38:32 | [INFO]    | Connecting to Discord...
+2021-01-21 23:38:32 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 23:38:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 23:38:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 23:38:32 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 23:38:32 | [INFO]    | Shard 0 : Received READY
+2021-01-21 23:40:16 | [INFO]    | Discordia 2.8.4
+2021-01-21 23:40:16 | [INFO]    | Connecting to Discord...
+2021-01-21 23:40:16 | [INFO]    | Authenticated as one-word-storyteller#4741
+2021-01-21 23:40:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 23:40:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 23:40:16 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 23:40:17 | [INFO]    | Shard 0 : Received READY
